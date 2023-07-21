@@ -6,6 +6,43 @@
 // set the defaults for all responsive levels here
 // no (xl) media query necessary (desktop first)
 
+  .flatmir-footer {
+    margin-top: 0;
+    .container {
+      margin-top: 0;    // overwrite mir
+      margin-bottom: 0; // overwrite mir
+    }
+  }
+
+  .footer-top {
+    padding: 3.6rem 0;
+    background-color: $hdba-gray-medium;
+  }
+
+  .footer-bottom {
+    padding: 3.6rem 0;
+    background: linear-gradient(to bottom, $hdba-gray-dark, $hdba-gray-light);
+  }
+
+  .project_logo_link--footer {
+    display: flex;
+    flex-direction: column;
+    img {
+      width: auto;
+      height: 2.5rem;
+      object-fit: contain;
+      align-self: flex-start;
+      &:last-child {
+        margin-top: .25rem;
+        filter: brightness(0) invert(1);
+      }
+    }
+  }
+
+  #powered_by {
+    border-top: none;
+    background-color: $hdba-gray-light;
+  }
 
 // Large devices (desktops) and below: <= 1200px
 @include media-breakpoint-down(lg) {

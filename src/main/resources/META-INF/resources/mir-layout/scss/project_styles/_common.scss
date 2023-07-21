@@ -8,7 +8,15 @@
 // set the defaults for all responsive levels here
 // no (xl) media query necessary (desktop first)
 
-
+  .backlight {
+    background-color: rgba(255, 255, 255, 0.888);
+    padding: 7.5px 15px;
+    font-size: 45.25px;
+    font-weight: 700;
+    width: fit-content;
+    display: block;
+    margin-bottom: 0.125em;
+  }
 
 // Large devices (desktops) and below: <= 1200px
 @include media-breakpoint-down(lg) {

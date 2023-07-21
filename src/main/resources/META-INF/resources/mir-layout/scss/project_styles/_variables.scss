@@ -14,8 +14,39 @@
 //  project settings
 // --------------------------------------------------
 
+$hdba-red:          rgb(231, 19, 26);
+$hdba-gray-dark:    rgb(32,32, 32);
+$hdba-gray-medium:  rgba(51, 51, 51, 0.99);
+$hdba-gray-light:   rgb(89,89, 89);
 
 
 // --------------------------------------------------
 //  overwrite bootstrap
 // --------------------------------------------------
+
+$primary:                 black;
+$secondary:                 $hdba-red;
+
+$body-color:                black;
+
+$web-font-path:             "https://webfonts.gbv.de/css2?family=Roboto+Flex:wght@400;700&display=swap";
+$font-family-sans-serif:    "Roboto Flex", "Arial", "Verdana", "Tahoma", sans-serif;
+$font-size-base:            1rem;
+
+$input-color:               black;
+$input-border-color:        $hdba-gray-dark;
+$input-placeholder-color:   $hdba-gray-dark;
+$card-border-color:         $hdba-gray-dark;
+
+$navbar-light-color:        black;
+$navbar-light-hover-color:  black;
+$navbar-nav-link-padding-x: 1rem;
+$navbar-brand-font-size:    1rem;
+
+$border-radius:             0;
+$border-radius-lg:          0;
+$border-radius-sm:          0;
+
+$dropdown-spacer:           1rem;
+$dropdown-border-color:     $hdba-gray-dark;
+$dropdown-link-color:       $hdba-gray-dark;

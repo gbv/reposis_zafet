@@ -6,6 +6,42 @@
 // set the defaults for all responsive levels here
 // no (xl) media query necessary (desktop first)
 
+  body {
+    padding-top: 165px;
+    & > section {
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+      background-image: url('../../../../images/figures/210318_BIB_HdBA_010.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment:fixed;
+      min-height: calc(100vh - 350px);
+      -webkit-transition: background-image 0.2s ease-in-out;
+      transition: background-image 0.2s ease-in-out;
+      position: relative;
+      &::before {
+        content: "";
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.5);
+
+      }
+    }
+  }
+
+  #page {
+    position: relative;
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-color: rgba(255,255,255,0.95);
+  }
+
+
 // Large devices (desktops) and below: <= 1200px
 @include media-breakpoint-down(lg) {
   // add/overwrite styles for responsive level lg and lower

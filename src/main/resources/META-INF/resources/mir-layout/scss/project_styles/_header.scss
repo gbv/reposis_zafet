@@ -8,6 +8,26 @@
 
 // logo and menu container
 
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: rgba(0, 0, 0, 0.21) 0px 0px 15px -2.5px;
+    z-index: 1000;
+  }
+
+  .project_logo_link--header {
+    display: flex;
+    img {
+      width: 50%;
+      object-fit: contain;
+      &:last-child {
+        margin-left: .5rem;
+      }
+    }
+  }
 
 // Large devices (desktops) and below: <= 1200px
 @include media-breakpoint-down(lg) {
