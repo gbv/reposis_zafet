@@ -2,23 +2,53 @@
 <!DOCTYPE MyCoReWebPage>
 <MyCoReWebPage>
     <section xml:lang="de" title="Impressum">
+        <head>
+            <meta name="title" content="Impressum"/>
+            <meta name="description" content="Angaben zum Herausgeber, zum Copyright und zur Haftung"/>
+        </head>
         <div class="row">
             <div class="col-md-12" lang="de">
-                <h1>Impressum</h1>
+                <h1>Herausgeber</h1>
                 <p>
-                    Die nachstehenden Informationen enthalten die gesetzlich vorgesehenen Pflichtangaben zur
-                    Anbieterkennzeichnung, sowie wichtige rechtliche Hinweise zur Internetpräsenz der ...
+                    Hochschule der Bundesagentur für Arbeit (HdBA)<br/>
+                    Rechtsform: Besondere Dienststelle der Bundesagentur für Arbeit, bundesunmittelbare Körperschaft des öffentlichen Rechts mit Selbstverwaltung
+                    vertreten durch den Rektor Herrn Prof. Dr. Andreas Frey, Rektor der Hochschule der Bundesagentur für Arbeit.
+                </p>
+                <p>
+                    Seckenheimer Landstraße 16<br/>
+                    68163 Mannheim<br/>
+                    Telefon:  0621 4209-0<br/>
+                    E-Mail: <span class="madress">Hochschule [at] arbeitsagentur.de</span><br/>
+                    Umsatzsteueridentifikationsnummer DE 811458858<br/>
                 </p>
 
-                <h2>Anbieter</h2>
+                <h2>Copyright</h2>
                 <p>
-                    Anbieter dieser Internetpräsenz ist im Rechtssinne ...
+                    Alle Inhalte von hdba.de dürfen zum privaten Gebrauch sowie zu Unterrichtszwecken frei kopiert werden. Die Nutzung der Inhalte zu anderen
+                    Zwecken bedarf der Genehmigung durch die Hochschule der Bundesagentur für Arbeit (HdBA).
+                </p>
+
+                <h2>Rechtliche Hinweise / Haftungsausschluss</h2>
+                <p>
+                    Links zu Webseiten Dritter werden Ihnen auf dieser Webseite als reine Serviceleistung, bzw. als Hinweis auf weiterführende Quellen angeboten.
+                    Für die Inhalte, zu denen verlinkt wird, sind die Anbieter der jeweiligen Webseiten ausschließlich selbst verantwortlich. Die HdBA macht sich
+                    diese Inhalte nicht zu eigen und übernimmt keine Haftung.
+                </p>
+                <p>
+                    Dieses Impressum gilt auch für die Präsenzen der Hochschule der Bundesagentur für Arbeit in verschiedenen sozialen Netzwerken wie zum Beispiel
+                    Twitter, XING, YouTube oder Ausbildung.de. Die HdBA hat keinen Einfluss auf die Nutzungsbedingungen der sozialen Netzwerke und der von ihnen
+                    angebotenen Dienste sowie auf die Datenerhebung und deren Verwendung. Wir behandeln Ihre Daten mit höchster Sorgfalt, übernehmen aber keine
+                    Haftung für das Verhalten der Betreiber der sozialen Netzwerke sowie Dritter.
+                </p>
+                <p>
+                    Obwohl die Inhalte der Webseite der HdBA sorgfältig geprüft wurden, wird keine Garantie und Verantwortung dafür übernommen, dass alle Angaben
+                    zu jeder Zeit vollständig, richtig und in letzter Aktualität dargestellt sind. Alle Angaben können ohne vorherige Ankündigung ergänzt, entfernt
+                    oder geändert werden. Alle auf dieser Website genannten Produktnamen, Produktbezeichnungen und Logos sind eingetragene Warenzeichen und Eigentum
+                    der jeweiligen Rechteinhaber.
                 </p>
             </div>
         </div>
     </section>
-
     <meta>
-        <log date="2020-10-22" time="18:09" labelPath=" » Admin" lastEditor="Kathleen Neumann"/>
     </meta>
 </MyCoReWebPage>
