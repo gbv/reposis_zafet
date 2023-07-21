@@ -1,25 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE MyCoReWebPage>
 <MyCoReWebPage>
-    <section xml:lang="de" title="Barrierefreiheitserklärung">
-        <div class="row">
-            <div class="col-md-12" lang="de">
-                <h1>Erklärung zur Barrierefreiheit</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ullamcorper morbi tincidunt ornare massa eget egestas purus
-                    viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Erat velit scelerisque in
-                    dictum non consectetur a erat. Faucibus et molestie ac feugiat sed lectus. Turpis in eu mi
-                    bibendum neque. At erat pellentesque adipiscing commodo elit at imperdiet dui. Ut porttitor leo
-                    a diam. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Mollis nunc sed id
-                    semper risus in hendrerit gravida rutrum. Eget nunc scelerisque viverra mauris. Et ligula
-                    ullamcorper malesuada proin libero nunc. Felis donec et odio pellentesque. Quis ipsum
-                    suspendisse ultrices gravida dictum. Amet dictum sit amet justo donec enim diam vulputate ut.
-                    Consequat ac felis donec et odio pellentesque diam.
-                </p>
-            </div>
-        </div>
-    </section>
-    <meta>
-        <log lastEditor="administrator" date="2020-09-22" time="12:30"/>
-    </meta>
+  <section xml:lang="de" title="Barrierefreiheitserklärung">
+    <div class="row">
+      <div class="col-md-12" lang="de">
+        <p>
+          Diese Erklärung zur Barrierefreiheit gilt für die unter <strong>open.hdba.de</strong> veröffentlichten Webseite der Hochschule der Bundesagentur für Arbeit.
+        </p>
+
+        <h1>Barrierefreiheit dieser Internetseite</h1>
+        <p>
+          Die HdBA ist bemüht das Repositorium <a href="https://open.hdba.de">open.hdba.de</a> barrierefrei zugänglich zu gestalten. Rechtsgrundlagen
+          sind die UN-Behindertenrechtskonvention (UN-BRK), das Behindertengleichstellungsgesetz (BGG) sowie die Barrierefreie Informationstechnik-Verordnung (BITV 2.0)
+          in ihren jeweils gültigen Fassungen.
+        </p>
+        <p>
+          Die Überprüfung der Einhaltung der Anforderungen beruht auf <strong>unabhängigen BITV 2.0-Tests</strong>, die im Rahmen der Weiterentwicklung an jeweiligen
+          Teilbereichen des Internetauftritts kontinuierlich durchgeführt werden.
+        </p>
+        <p>
+          Die Webseiten und mobilen Anwendungen sind mit den genannten Anforderungen zum größten Teil vereinbar. Die Hochschule der Bundesagentur für Arbeit ist
+          bemüht, die verbleibenden Barrieren schnellstmöglich zu beheben.
+        </p>
+        <p>
+          Die nachstehend aufgeführten Inhalte sind aus folgenden Gründen nicht barrierefrei: Unvereinbarkeit mit der BITV 2.0:
+        </p>
+          <ul>
+            <li>
+              PDF-Dokumente älteren Datums sind möglicherweise nicht oder wenig barrierefrei.
+              Bei Bedarf wenden Sie sich bitte an unseren Beauftragten für die digitale Barrierefreiheit über das
+              <a href="https://www.hdba.de/erklaerung-zur-barrierefreiheit/anregungen-und-kritik-zur-barrierefreiheit/" target="_blank">Kontaktformular</a>.
+            </li>
+            <li>Neu herausgegebene PDF-Dokumente werden in der Regel in barrierefreier Version zur Verfügung gestellt oder zeitnah durch eine solche ersetzt.</li>
+            <li>Anderssprachige Begriffe sind möglicherweise nicht durchgehend ausgezeichnet.</li>
+            <li>An einigen wenigen Stellen ist eine Sprachauszeichnung leider nicht möglich.</li>
+            <li>Inhalte für Gebärdensprache werden noch erstellt.</li>
+            <li>Bei Videos fehlen noch Untertitel, Transkription und Audio-Deskription.</li>
+          </ul><p>Diese Erklärung wurde am 11.04.2023 aktualisiert.</p>
+
+        <h3>Feedback und Kontaktmöglichkeiten</h3>
+        <p>
+          Sie möchten uns bestehende Barrieren auf unseren Webseiten oder mobilen Anwendungen melden? Oder Sie möchten Informationen zur Umsetzung der
+          Barrierefreiheit erhalten?
+        </p>
+        <p>
+          Nutzen Sie unser <a href="https://www.hdba.de/erklaerung-zur-barrierefreiheit/anregungen-und-kritik-zur-barrierefreiheit/" target="_blank">Kontaktformular</a>.
+        </p>
+
+        <h2>Gebärdentelefonie und Schrifttelefonie</h2>
+        <p>
+          Für Menschen mit Hörbeeinträchtigungen gibt es das kostenlose
+          <a href="https://www.arbeitsagentur.de/weiterleitung/1478923860127" target="_blank">Servicetelefon</a>.
+        </p>
+
+        <h2>Leichte Sprache</h2>
+        <p>
+          Eine Erläuterung der wesentlichen Inhalte dieser Erklärung finden Sie auch in 
+          <a href="https://www.hdba.de/leichte-sprache/erklaerung-zur-barrierefreiheit/" target="_blank">Leichter Sprache</a>.</p>
+
+        <h2>Schlichtungsverfahren</h2>
+        <p>
+          Beim Beauftragten der Bundesregierung für die Belange von Menschen mit Behinderungen gibt es eine Schlichtungsstelle gemäß § 16 BGG. An die Schlichtungsstelle
+          können sich Menschen mit Behinderungen wenden, wenn sie der Ansicht sind, durch eine öffentliche Stelle des Bundes in einem Recht nach dem BGG verletzt worden
+          zu sein.
+        </p>
+        <p>
+          Sie können die Schlichtungsstelle einschalten, wenn Sie zum Beispiel mit den Antworten aus der oben genannten Kontaktmöglichkeit nicht zufrieden sind.
+          Dabei geht es nicht darum, Gewinner oder Verlierer zu finden. Vielmehr ist es das Ziel, mit Hilfe der Schlichtungsstelle gemeinsam und außergerichtlich
+          eine Lösung für ein Problem zu finden.
+        </p>
+        <p>
+          Das Schlichtungsverfahren ist <strong>kostenlos</strong>. Sie brauchen auch <strong>keinen Rechtsbeistand</strong>.
+        </p>
+        <p>
+          Auf der Internetseite der Schlichtungsstelle finden Sie alle Informationen zum Schlichtungsverfahren. Dort können Sie nachlesen, wie ein
+          Schlichtungsverfahren abläuft und wie Sie den <strong>Antrag auf Schlichtung</strong> stellen. Sie können den Antrag auch in Leichter Sprache oder
+          in Deutscher Gebärdensprache stellen. 
+        </p>
+        <p>
+          Sie erreichen die Schlichtungsstelle unter folgender Adresse:
+        </p>
+        <p>
+          Schlichtungsstelle nach dem Behindertengleichstellungsgesetz<br/>
+          bei dem Beauftragten der Bundesregierung für die Belange von Menschen mit Behinderungen </p>
+        <p>
+          Mauerstraße 53<br/> 10117 Berlin<br/>
+          Telefon: +49 (0)30 18 527-2805<br/>
+          Fax: +49 (0)30 18 527-2901<br/>
+          E-Mail:<span class="madress">info [at] schlichtungsstelle-bgg.de</span><br/>
+          Internet: <a href="https://www.arbeitsagentur.de/weiterleitung/1478927550211" target="_blank">www.schlichtungsstelle-bgg.de</a>
+        </p>
+      </div>
+    </div>
+  </section>
+  <meta>
+  </meta>
 </MyCoReWebPage>
