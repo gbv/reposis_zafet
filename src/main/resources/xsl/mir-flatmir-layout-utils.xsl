@@ -55,18 +55,12 @@
 
           <div id="mir-main-nav-collapse-box" class="collapse navbar-collapse mir-main-nav__entries">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-              <xsl:for-each select="$loaded_navigation_xml/menu">
-                <xsl:choose>
-                  <!-- Ignore some menus, they are shown elsewhere in the layout -->
-                  <xsl:when test="@id='main'"/>
-                  <xsl:when test="@id='brand'"/>
-                  <xsl:when test="@id='below'"/>
-                  <xsl:when test="@id='user'"/>
-                  <xsl:otherwise>
-                    <xsl:apply-templates select="."/>
-                  </xsl:otherwise>
-                </xsl:choose>
-              </xsl:for-each>
+              <xsl:call-template name="project.generate_single_menu_entry">
+                <xsl:with-param name="menuID" select="'brand'"/>
+              </xsl:call-template>
+              <xsl:apply-templates select="$loaded_navigation_xml/menu[@id='search']" />
+              <xsl:apply-templates select="$loaded_navigation_xml/menu[@id='collections']" />
+              <xsl:apply-templates select="$loaded_navigation_xml/menu[@id='publish']" />
               <xsl:call-template name="mir.basketMenu" />
             </ul>
 
@@ -116,8 +110,8 @@
             <a
               href="{concat($WebApplicationBaseURL,substring($loaded_navigation_xml/@hrefStartingPage,2),$HttpSession)}"
               class="project_logo_link--footer">
-              <img src="{$WebApplicationBaseURL}images/logos/logo_hdba.svg" alt="HdBA Logo" />
-              <img src="{$WebApplicationBaseURL}images/logos/logo_text.svg" alt="HdBA Slogan" />
+              <img src="{$WebApplicationBaseURL}images/logos/logo_hdba.svg" alt="HdBA Logo"/>
+              <img src="{$WebApplicationBaseURL}images/logos/logo_text.svg" alt="HdBA Slogan"/>
             </a>
           </div>
         </div>
@@ -125,27 +119,58 @@
     </div>
 
     <div class="footer-bottom">
-      <div class="container">
-        <div class="row">
-          <div class="col-4">
-            <h4>Über die Anwendung</h4>
-            <p>
-              Warme Worte über die Aufgabe und die Absichten des Projektes.
-              Mit einem Link zu weiteren Informationen
-              <span class="read_more">
-                <a href="#">Mehr erfahren ...</a>
-              </span>
-            </p>
-          </div>
-          <div class="col-6">
-            <h4>Navigation</h4>
-            <ul class="internal_links">
-              <xsl:apply-templates select="$loaded_navigation_xml/menu[@id='below']/*" />
-            </ul>
+      <div class="project-footer-menu">
+        <div class="container">
+          <div class="row">
+            <div class="col-4">
+              <h2/>
+              <p>
+                Warme Worte über die Aufgabe und die Absichten des Projektes.
+                Mit einem Link zu weiteren Informationen
+                <span class="read_more">
+                  <a href="#">Mehr erfahren ...</a>
+                </span>
+              </p>
+            </div>
+            <div class="col-6">
+              <h2/>
+              <ul class="internal_links">
+                <xsl:apply-templates select="$loaded_navigation_xml/menu[@id='below']/*"/>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
     </div>
+  </xsl:template>
+
+  <xsl:template name="project.generate_single_menu_entry">
+    <xsl:param name="menuID" />
+
+    <xsl:variable name="activeClass">
+      <xsl:choose>
+        <xsl:when test="$loaded_navigation_xml/menu[@id=$menuID]/item[@href = $browserAddress ]">
+          <xsl:text>active</xsl:text>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:text>not-active</xsl:text>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+
+    <li class="nav-item {$activeClass}">
+
+      <a id="{$menuID}" href="{$WebApplicationBaseURL}{$loaded_navigation_xml/menu[@id=$menuID]/item/@href}" class="nav-link" >
+        <xsl:choose>
+          <xsl:when test="$loaded_navigation_xml/menu[@id=$menuID]/item/label[lang($CurrentLang)] != ''">
+            <xsl:value-of select="$loaded_navigation_xml/menu[@id=$menuID]/item/label[lang($CurrentLang)]" />
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="$loaded_navigation_xml/menu[@id=$menuID]/item/label[lang($DefaultLang)]" />
+          </xsl:otherwise>
+        </xsl:choose>
+      </a>
+    </li>
   </xsl:template>
 
   <xsl:template name="mir.powered_by">

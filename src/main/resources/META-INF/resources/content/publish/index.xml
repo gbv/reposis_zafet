@@ -25,7 +25,7 @@
             Bitte beachten Sie, dass alle mit einem Asterisk * gekennzeichneten Felder der jeweils gewählten
             Erfassungsmaske verpflichtend zu befüllen sind. Für jede angemeldete Veröffentlichung übersenden Sie bitte
             ergänzend einen vollständig ausgefüllten und mit Ihrer elektronischen Unterschrift versehenen
-            <a href="../rights/Publikationsvertrag.pdf">Publikationsvertrag</a> an:
+            <a href="Publikationsvertrag.pdf">Publikationsvertrag</a> an:
             <span class="madress">hdba.open [at] arbeitsagentur.de</span>
           </p>
           <h3>Publikationstyp festlegen</h3>
@@ -106,7 +106,7 @@
             this, please combine the entry mask that corresponds to the type of your publication from the two-part
             selection menu – if this is necessary in the specific case. Please note that all fields marked with an
             asterisk in the selected entry mask must be filled out. For each registered publication, please also
-            send a fully completed <a href="../rights/Publikationsvertrag.pdf">publication contract</a> with your
+            send a fully completed <a href="Publikationsvertrag.pdf">publication contract</a> with your
             electronic signature to:
           </p>
           <h3>Set publication type</h3>
@@ -168,6 +168,5 @@
 
     </form>
   </section>
-
 
 </MyCoReWebPage>

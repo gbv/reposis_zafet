@@ -63,3 +63,13 @@
 @include media-breakpoint-down(xs) {
   // add/overwrite styles for responsive level xs
 }
+
+.project-footer-menu h2::after {
+  content: " ";
+  display: block;
+  width: 1.875rem;
+  height: .1875rem;
+  background-color: #fff;
+  margin-top: .875rem;
+  margin-bottom: 1.125rem;
+}

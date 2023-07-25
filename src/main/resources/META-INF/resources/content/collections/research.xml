@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MyCoReWebPage>
-  <section xml:lang="de" title="Nutzungsbedingungen">
+  <section xml:lang="de" title="Forschungsprojekte">
     <head>
-      <meta name="title" content="Nutzungsbedingungen"/>
-      <meta name="description" content="Unsere Nutzungsbedingungen"/>
+      <meta name="title" content="Forschungsprojekte"/>
+      <meta name="description" content="Forschungsprojekte"/>
     </head>
     <div class="row">
       <div class="col-md-12" lang="de">
-        <h1>Nutzungsbedingungen</h1>
+        <h1>Forschungsprojekte</h1>
         <p>
-          Informationen zur Nutzung.
+          Bekanntmachungen
         </p>
         <p>
           Weitere Erklärungen.

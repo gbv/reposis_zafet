@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE MyCoReWebPage>
 <MyCoReWebPage>
-    <section xml:lang="de" title="Anschrift und Kontakt">
-        <head>
-            <meta name="title" content="Anschrift und Kontakt"/>
-            <meta name="description" content="Anschrift und Kontaktseite der Hochschule der Bundesagentur für Arbeit (HdBA)"/>
-        </head>
-        <div class="row">
-            <div class="col-md-12" lang="de">
-                <h2>Anschrift und Kontakt</h2>
-                <p>
-                    <strong>Hochschule der Bundesagentur für Arbeit (HdBA)</strong>
-                    <br/>
-                    Campus Mannheim
-                    <br/>
-                    Seckenheimer Landstr. 16
-                    <br/>
-                    68163 Mannheim
-                    <br/>
-                    +49 621 4209-0
-                    <br/>
-                    <span class="madress">Hochschule [at] arbeitsagentur.de</span>
-                </p>
-                <p>
-                    <strong>Hochschule der Bundesagentur für Arbeit (HdBA)</strong>
-                    <br/>
-                    Campus Schwerin
-                    <br/>
-                    Wismarsche Str. 405
-                    <br/>
-                    19055 Schwerin
-                    <br/>
-                    +49 385 5408-3
-                    <br/>
-                    <span class="madress">Hochschule-Schwerin [at] arbeitsagentur.de</span>
-                </p>
-            </div>
-        </div>
-    </section>
+  <section xml:lang="de" title="Anschrift und Kontakt">
+    <head>
+      <meta name="title" content="Anschrift und Kontakt"/>
+      <meta name="description" content="Anschrift und Kontaktseite der Hochschule der Bundesagentur für Arbeit (HdBA)"/>
+    </head>
+    <div class="row">
+      <div class="col-md-12" lang="de">
+        <h2>Anschrift und Kontakt</h2>
+        <p>
+          <strong>Hochschule der Bundesagentur für Arbeit (HdBA)</strong>
+          <br/>
+          Campus Mannheim
+          <br/>
+          Seckenheimer Landstr. 16
+          <br/>
+          68163 Mannheim
+          <br/>
+          +49 621 4209-0
+          <br/>
+          <span class="madress">Hochschule [at] arbeitsagentur.de</span>
+        </p>
+        <p>
+          <strong>Hochschule der Bundesagentur für Arbeit (HdBA)</strong>
+          <br/>
+          Campus Schwerin
+          <br/>
+          Wismarsche Str. 405
+          <br/>
+          19055 Schwerin
+          <br/>
+          +49 385 5408-3
+          <br/>
+          <span class="madress">Hochschule-Schwerin [at] arbeitsagentur.de</span>
+        </p>
+      </div>
+    </div>
+  </section>
 </MyCoReWebPage>
