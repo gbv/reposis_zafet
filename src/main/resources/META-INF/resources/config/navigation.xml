@@ -101,7 +101,7 @@
       <label xml:lang="de">Publizieren</label>
       <label xml:lang="en">Publish</label>
     </item>
-    <item href="/content/publish/importPPN.xml" type="intern">
+    <item href="/content/publish/index.xml" type="intern">
       <label xml:lang="de">Publizieren (PPN Import)</label>
       <label xml:lang="en">Publish (PPN Import)</label>
     </item>
