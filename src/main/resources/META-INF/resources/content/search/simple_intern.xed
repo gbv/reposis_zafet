@@ -45,8 +45,11 @@
             <!-- Institution -->
               <mir:template name="selectInput" xpath="condition[@field='category'][1]/@value" id="inputInst1" i18n="editor.search.mir.institute"
                 tooltip="editor.search.mir.institute.tooltip" uri="xslStyle:items2options:classification:editorComplete:-1:children:mir_institutes" />
-        <!-- /xed:bind> TODO: realize search dependent on current user and state
-        <xed:bind xpath="boolean[@operator='or']" default="{$CurrentUser}" -->
+            <!-- Projects -->
+              <mir:template name="selectInput" xpath="condition[@field='category.top'][2]/@value" id="inputInst1" i18n="editor.search.mir.hdba_projects"
+                tooltip="editor.search.mir.hdba_projects.tooltip" uri="xslStyle:items2options:classification:editorComplete:-1:children:hdba_projects" />
+              <!-- /xed:bind> TODO: realize search dependent on current user and state
+              <xed:bind xpath="boolean[@operator='or']" default="{$CurrentUser}" -->
           <!-- xed:bind xpath="condition[@field='createdby']/@value" default="{$CurrentUser}" / -->
             <!-- Status -->
               <mir:template name="selectInput" xpath="condition[@field='state']/@value" id="inputStatus1" i18n="editor.search.status" tooltip="editor.search.status.tooltip"

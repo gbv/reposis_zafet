@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="hdba_projects">
+  <label xml:lang="de" text="HdBA Projekte" description="Liste der Projekte" />
+  <label xml:lang="en" text="HdBA Projects" description="List of projects" />
+  <label xml:lang="x-uri" text="https://open.hdba.de/api/v2/classifications/projects" />
+  <categories>
+    <category ID="project_1">
+      <label xml:lang="en" text="Project 1" />
+      <label xml:lang="de" text="Projekt 1" />
+    </category>
+    <category ID="project_2">
+      <label xml:lang="en" text="Project 2" />
+      <label xml:lang="de" text="Projekt 2" />
+    </category>
+    <category ID="project_3">
+      <label xml:lang="en" text="Project 3" />
+      <label xml:lang="de" text="Projekt 3" />
+    </category>
+  </categories>
+</mycoreclass>

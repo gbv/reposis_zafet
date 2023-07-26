@@ -22,11 +22,6 @@
       <label xml:lang="en" text="Fachgruppe Beratungswissenschaften" />
       <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/beratungswissenschaften/" xlink:type="locator" />
     </category>
-    <category ID="Unis.Greifswald">
-      <label xml:lang="de" text="Universität Greifswald" />
-      <label xml:lang="en" text="University of Greifswald" />
-      <url xlink:href="http://www.uni-greifswald.de/" xlink:type="locator" />
-    </category>
     <category ID="FG.Soziologie">
       <label xml:lang="de" text="Fachgruppe Soziologie und Arbeitsmarktpolitik " />
       <label xml:lang="en" text="Fachgruppe Soziologie und Arbeitsmarktpolitik " />
