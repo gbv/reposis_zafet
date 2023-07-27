@@ -64,8 +64,6 @@
         <div class="col-sm-3 col-lg-2 control-label">
           <select name="type" class="form-control">
             <option value="doi">DOI</option>
-            <option value="scopus">Scopus-ID</option>
-            <option value="pubmed">PubMed-ID</option>
             <option value="isbn">ISBN</option>
             <option value="issn">ISSN</option>
             <option value="ieee">IEEE</option>
@@ -145,8 +143,6 @@
         <div class="col-sm-3 col-lg-2 control-label">
           <select name="type" class="form-control">
             <option value="doi">DOI</option>
-            <option value="scopus">Scopus-ID</option>
-            <option value="pubmed">PubMed-ID</option>
             <option value="isbn">ISBN</option>
             <option value="issn">ISSN</option>
             <option value="ieee">IEEE</option>
