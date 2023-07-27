@@ -14,7 +14,7 @@
                 </h1>
                 <form
                   id="project-searchMainPage"
-                  action="../servlets/solr/findPublic"
+                  action="../servlets/solr/find"
                   class="form-inline backlight"
                   role="search">
                   <div class="input-group input-group-lg w-100">
