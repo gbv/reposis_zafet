@@ -15,14 +15,16 @@
 
         <div class="col-6">
           <div class="project_logo_box">
-            <a href="{concat($WebApplicationBaseURL,substring($loaded_navigation_xml/@hrefStartingPage,2),$HttpSession)}"
+            <a href="https://www.hdba.de/"
                class="project_logo_link--header">
               <img src="{$WebApplicationBaseURL}images/logos/logo_hdba.svg" alt="HdBA Logo" />
               <img src="{$WebApplicationBaseURL}images/logos/logo_text.svg" alt="HdBA Slogan" />
             </a>
           </div>
         </div>
-
+        <!--
+        {concat($WebApplicationBaseURL,substring($loaded_navigation_xml/@hrefStartingPage,2),$HttpSession)}
+        -->
         <div class="col">
           <div class="mir-prop-nav">
             <nav>
@@ -108,7 +110,7 @@
         <div class="row">
           <div class="col">
             <a
-              href="{concat($WebApplicationBaseURL,substring($loaded_navigation_xml/@hrefStartingPage,2),$HttpSession)}"
+              href="https://www.hdba.de/"
               class="project_logo_link--footer">
               <img src="{$WebApplicationBaseURL}images/logos/logo_hdba.svg" alt="HdBA Logo"/>
               <img src="{$WebApplicationBaseURL}images/logos/logo_text.svg" alt="HdBA Slogan"/>

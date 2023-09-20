@@ -2,15 +2,15 @@
 <!DOCTYPE MyCoReWebPage>
 <MyCoReWebPage xmlns:i18n="http://www.mycore.org/i18n">
 
-  <section title="Willkommen bei MIR!" xml:lang="de">
+  <section title="Repositorium der HdBA" xml:lang="de">
         <div id="project-index-search" class="jumbotwo" >
             <div class="row">
 
               <div class="col splash">
 
                 <h1 class="">
-                  <span class="backlight">Der Publikations­server</span>
-                  <span class="backlight">der HdBA</span>
+                  <span class="backlight">Repositorium</span>
+                  <span class="backlight slogan">open HdBA</span>
                 </h1>
                 <form
                   id="project-searchMainPage"
@@ -35,6 +35,7 @@
 
             </div>
         </div>
+        <div class="jsChangeBack"></div>
         <script>
           /*
           $( document ).ready(function() {

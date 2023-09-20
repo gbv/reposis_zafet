@@ -19,6 +19,9 @@
     }
     .nav-item:first-child {
       border-left: none;
+      a {
+        padding-left: 0;
+      }
     }
   }
 

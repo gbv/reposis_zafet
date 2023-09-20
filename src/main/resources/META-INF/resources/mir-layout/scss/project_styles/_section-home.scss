@@ -27,6 +27,10 @@ body.mir-start_page {
               display: flex;
               flex-direction: column;
               justify-content: center;
+              h1 .slogan {
+                color: $hdba-red;
+                font-size: 2rem;
+              }
               #project-searchMainPage {
                 width: 80%;
                 margin-top: 3rem;

@@ -12,6 +12,8 @@ var imageListe = [
   "210318_BIB_HdBA_021.jpg"
 ];
 
+var imagePointer = 0;
+
 $(document).ready(function() {
 
   // spam protection for mails
@@ -36,13 +38,23 @@ $(document).ready(function() {
   $("a[href='https://reposis-test.gbv.de/zafet/servlets/solr/select?q=createdby:USERNAME']").attr('href', newHref);
 
   //window.setInterval(changeBackground, 10000);
+
+  $(".jsChangeBack").click(function() {
+    changeBackground();
+  });
 });
 
 function changeBackground()
 {
   console.log("change image now");
-  var randomImage = Math.floor(Math.random() * imageListe.length-1);
-  $("body> section").css("background-image","url('../images/figures/" + imageListe[randomImage] + "')");
+  //var randomImage = Math.floor(Math.random() * imageListe.length);
+  //$("body> section").css("background-image","url('../images/figures/" + imageListe[randomImage] + "')");
+  if ( imagePointer+1 < imageListe.length ) {
+    imagePointer = imagePointer +1;
+  } else {
+    imagePointer = 0;
+  }
+  $("body> section").css("background-image","url('../images/figures/" + imageListe[imagePointer] + "')");
 }
 
 
