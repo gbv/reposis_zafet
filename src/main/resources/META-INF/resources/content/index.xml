@@ -36,8 +36,8 @@
             </div>
         </div>
         <div class="jsChangeBack"></div>
+        <script src="../js/jquery.number.js"></script>
         <script>
-          /*
           $( document ).ready(function() {
             $.ajax({
               type: "GET",
@@ -48,7 +48,6 @@
               },
             });
           });
-          */
         </script>
   </section>
   <meta>
