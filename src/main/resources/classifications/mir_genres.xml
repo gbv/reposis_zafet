@@ -116,13 +116,6 @@
         <label xml:lang="x-hosts" text="series standalone" />
         <label xml:lang="x-mapping" text="marcgt:thesis diniPublType:StudyThesis diniPublType2022:StudyThesis schemaOrg:Thesis XMetaDissPlusThesisLevel:other" />
       </category>
-      <category ID="magister_thesis">
-        <label xml:lang="de" text="Magisterarbeit" />
-        <label xml:lang="en" text="Magister thesis" />
-        <label xml:lang="it" text="Magisterarbeit" />
-        <label xml:lang="x-hosts" text="series standalone" />
-        <label xml:lang="x-mapping" text="marcgt:thesis diniPublType:masterThesis diniPublType2022:MasterThesis schemaOrg:Thesis XMetaDissPlusThesisLevel:M.A." />
-      </category>
     </category>
     <category ID="collection">
       <label xml:lang="de" text="Sammelwerk" />
@@ -263,13 +256,6 @@
         <label xml:lang="x-mapping" text="marcgt:computer_program diniPublType:Software diniPublType2022:Software schemaOrg:SoftwareApplication" />
       </category>
     </category>
-    <category ID="patent">
-      <label xml:lang="de" text="Patent" />
-      <label xml:lang="en" text="Patent" />
-      <label xml:lang="it" text="Brevetto" />
-      <label xml:lang="x-hosts" text="standalone" />
-      <label xml:lang="x-mapping" text="marcgt:patent diniPublType:patent diniPublType2022:Patent schemaOrg:CreativeWork" />
-    </category>
     <category ID="poster">
       <label xml:lang="de" text="Poster" />
       <label xml:lang="en" text="Poster" />
@@ -304,6 +290,13 @@
       <label xml:lang="it" text="Programma televisivo o radiofonico" />
       <label xml:lang="x-hosts" text="standalone" />
       <label xml:lang="x-mapping" text="marcgt:videorecording diniPublType:report diniPublType2022:Report schemaOrg:MediaObject" />
+    </category>
+    <category ID="podcast">
+      <label xml:lang="de" text="Podcast" />
+      <label xml:lang="en" text="Podcast" />
+      <label xml:lang="it" text="Podcast" />
+      <label xml:lang="x-hosts" text="standalone" />
+      <label xml:lang="x-mapping" text="marcgt:sound diniPublType:Sound diniPublType2022:Sound schemaOrg:MediaObject" />
     </category>
     <category ID="lecture">
       <label xml:lang="de" text="Vorlesung" />

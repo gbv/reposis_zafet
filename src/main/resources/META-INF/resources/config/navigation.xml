@@ -60,12 +60,14 @@
       <label xml:lang="de">Komplex</label>
       <label xml:lang="en">Complex</label>
     </item>
-
     <item href="/search/search-expert.xed" type="intern">
       <label xml:lang="de">Expert</label>
       <label xml:lang="en">Expert</label>
     </item>
-
+    <item href="/content/browse/projects.xml" type="intern">
+      <label xml:lang="de">Nach Projekten</label>
+      <label xml:lang="en">By Projects</label>
+    </item>
     <item href="/content/browse/institutes.xml" type="intern">
       <label xml:lang="de">Nach Einrichtungen</label>
       <label xml:lang="en">By Institutions</label>
@@ -75,45 +77,37 @@
       <label xml:lang="en">By Genres</label>
     </item>
     <item href="/content/browse/sdnb.xml" type="intern">
-      <label xml:lang="de">Nach DDC</label>
-      <label xml:lang="en">By DDC</label>
+      <label xml:lang="de">Nach Sachgegruppe der DNB</label>
+      <label xml:lang="en">By SDNB</label>
     </item>
     <item href="/servlets/MCRActionMappingServlet/personindex/browse" type="extern">
       <label xml:lang="de">Nach Personen</label>
       <label xml:lang="en">By Persons</label>
-    </item>
-    <item href="/content/browse/sdnb.xml" type="intern">
-      <label xml:lang="de">Nach Projekt</label>
-      <label xml:lang="en">By Project</label>
     </item>
   </menu>
   <menu id="collections">
   <!-- collection menu  -->
     <label xml:lang="de">Sammlungen</label>
     <label xml:lang="en">Collections</label>
-    <item href="/servlets/solr/select?core=main&amp;q=mods.genre%3Aarticle">" type="intern">
-      <label xml:lang="de">Diskussionspapiere</label>
-      <label xml:lang="en">Discussion papers</label>
-    </item>
-    <item href="/servlets/solr/select?core=main&amp;q=mods.genre%3Aarticle">" type="intern">
-      <label xml:lang="de">Arbeitspapiere</label>
-      <label xml:lang="en">Working Papers</label>
-    </item>git
-    <item href="/content/collections/sead-ba-collections.xml" type="intern">
-      <label xml:lang="de">SEAD-BA Sammlungen</label>
-      <label xml:lang="en">SEAD-BA Collections</label>
-    </item>
     <item href="/content/collections/research.xml" type="intern">
       <label xml:lang="de">Forschungsprojekte</label>
       <label xml:lang="en">Research Projects</label>
     </item>
-    <item href="/content/collections/specialties.xml" type="intern">
-      <label xml:lang="de">Spezialgebiete</label>
-      <label xml:lang="en">Specialties</label>
+    <item href="/servlets/solr/select?core=main&amp;q=mods.genre%3Aarticle">" type="intern">
+      <label xml:lang="de">Discussion papers</label>
+      <label xml:lang="en">Discussion papers</label>
+    </item>
+    <item href="/servlets/solr/select?core=main&amp;q=mods.genre%3Aarticle">" type="intern">
+      <label xml:lang="de">Working Papers</label>
+      <label xml:lang="en">Working Papers</label>
+    </item>git
+    <item href="/content/collections/sead-ba-collections.xml" type="intern">
+      <label xml:lang="de">SEAD-BA Sammlung</label>
+      <label xml:lang="en">SEAD-BA Collection</label>
     </item>
     <item href="/content/collections/announcements.xml" type="intern">
-      <label xml:lang="de">Hochschulöffentliche Bekanntmachungen der HdBA</label>
-      <label xml:lang="en">Public university announcements by the HdBA</label>
+      <label xml:lang="de">Bekanntmachungen der HdBA</label>
+      <label xml:lang="en">Announcements by the HdBA</label>
     </item>
   </menu>
   <menu id="publish" dir="/content/publish">
@@ -140,8 +134,8 @@
       <label xml:lang="en">Copyright</label>
     </item>
     <item href="/content/publish/policy.xml" type="intern">
-      <label xml:lang="de">Leitlinie</label>
-      <label xml:lang="en">Policy</label>
+      <label xml:lang="de">Leitlinie Open Access</label>
+      <label xml:lang="en">Policy Open Access</label>
     </item>
     <item href="/content/publish/fund.xml" type="intern">
       <label xml:lang="de">Publikationsfonds</label>

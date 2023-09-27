@@ -47,9 +47,9 @@
       <label xml:lang="en" text="Fachgruppe Berufs- und Wirtschaftspädagogik" />
       <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/berufs-und-wirtschaftspaedagogik/" xlink:type="locator" />
     </category>
-    <category ID="Bibliothek">
-      <label xml:lang="de" text="Bibliothek" />
-      <label xml:lang="en" text="Library" />
+    <category ID="SEAD.BA">
+      <label xml:lang="de" text="SEAD-BA" />
+      <label xml:lang="en" text="SEAD-BA" />
       <url xlink:href="https://www.hdba.de/hochschule/zentrale-einrichtungen/bibliothek/" xlink:type="locator" />
     </category>
     <category ID="ZaFET">

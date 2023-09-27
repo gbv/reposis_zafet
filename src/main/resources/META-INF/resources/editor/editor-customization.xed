@@ -48,6 +48,7 @@
   </xed:modify>
 
   <xed:modify ref="genres.av.common">
+    <!--<xed:include ref="link.repeated"           after="language" /> -->
     <xed:include ref="projects"                after="sdnb.repeat" />
   </xed:modify>
 
@@ -59,6 +60,10 @@
     <xed:include ref="projects"                after="sdnb.repeat" />
   </xed:modify>
 
+  <xed:template id="genres.podcast">
+    <xed:include ref="type.of.resource.sound_recording" />
+    <xed:include ref="genres.av.common" />
+  </xed:template>
 
   <!-- ========== validation ========== -->
 
