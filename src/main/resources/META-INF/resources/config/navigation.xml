@@ -89,13 +89,9 @@
   <!-- collection menu  -->
     <label xml:lang="de">Sammlungen</label>
     <label xml:lang="en">Collections</label>
-    <item href="/content/collections/research.xml" type="intern">
-      <label xml:lang="de">Forschungsprojekte</label>
-      <label xml:lang="en">Research Projects</label>
-    </item>
     <item href="/servlets/solr/select?core=main&amp;q=mods.genre%3Aarticle">" type="intern">
-      <label xml:lang="de">Discussion papers</label>
-      <label xml:lang="en">Discussion papers</label>
+      <label xml:lang="de">Discussion Papers</label>
+      <label xml:lang="en">Discussion Papers</label>
     </item>
     <item href="/servlets/solr/select?core=main&amp;q=mods.genre%3Aarticle">" type="intern">
       <label xml:lang="de">Working Papers</label>
@@ -113,6 +109,10 @@
   <menu id="publish" dir="/content/publish">
     <label xml:lang="de">Publizieren</label>
     <label xml:lang="en">Publish</label>
+    <item href="/authorization/new-author.xed?action=register" type="intern" replaceMenu="false" constrainPopUp="false">
+      <label xml:lang="de">Registrieren</label>
+      <label xml:lang="en">Register</label>
+    </item>
     <item href="/servlets/MCRActionMappingServlet/mods/create" type="intern">
       <label xml:lang="de">Publikation anlegen (Admin)</label>
       <label xml:lang="en">Create Publication (Admin)</label>
