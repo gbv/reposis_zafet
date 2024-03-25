@@ -24,10 +24,9 @@
     <parent>
         <groupId>de.gbv.reposis</groupId>
         <artifactId>reposis_mir_parent</artifactId>
-        <version>2021.06-SNAPSHOT</version>
+        <version>2022.06-SNAPSHOT</version>
     </parent>
 
-    <groupId>de.gbv.zafet</groupId>
     <artifactId>reposis_zafet</artifactId>
     <version>2022.06-SNAPSHOT</version>
     <properties>
@@ -102,10 +101,6 @@
             <artifactId>mycore-pi</artifactId>
         </dependency>
         -->
-        <dependency>
-            <groupId>com.sun.activation</groupId>
-            <artifactId>jakarta.activation</artifactId>
-        </dependency>
         <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>
