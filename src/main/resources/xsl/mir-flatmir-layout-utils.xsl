@@ -127,11 +127,10 @@
             <div class="col-4">
               <h2/>
               <p>
-                Warme Worte über die Aufgabe und die Absichten des Projektes.
-                Mit einem Link zu weiteren Informationen
-                <span class="read_more">
-                  <a href="#">Mehr erfahren ...</a>
-                </span>
+                Das Repositorium open HdBA stellt die Publikationen der Hochschule als Open Access im Volltext und mit
+                Hochschulbibliographie zur Verfügung. Die Publikationen sind für Suchmaschinen, Datenbanken und archivierende
+                Institutionen zugänglich und können zuverlässig zitiert werden. Damit möchte die HdBA ihren Beitrag zum freien
+                Zugang zu wissenschaftlichen Erkenntnissen leisten.
               </p>
             </div>
             <div class="col-6">
