@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- based upon DINI-Zertifikat Dokumenten und Publikationsservice 2010,DINI Schriften 3-de [Version 3.1, März 2011] -->
+<!-- See also: DDC-Sachgruppen der deutschsprachigen Nationalbibliografien
+               http://nbn-resolving.org/urn:nbn:de:101-2014050500 -->
+
+<mycoreclass ID="SDNB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd">
+  <label xml:lang="de" text="Sachgruppen der Deutschen Nationalbibliographie" />
+  <label xml:lang="x-auth" text="sdnb" />
+  <label xml:lang="x-uri" text="http://www.mycore.org/classifications/SDNB" />
+  <categories>
+    <category ID="000">
+      <label xml:lang="de" text="000 Allgemeines, Wissenschaft" />
+      <label xml:lang="en" text="000 Generalities, Science" />
+    </category>
+    <category ID="010">
+      <label xml:lang="de" text="010 Bibliographien" />
+      <label xml:lang="en" text="010 Bibliography" />
+    </category>
+    <category ID="020">
+      <label xml:lang="de" text="020 Bibliotheks- und Informationswissenschaft" />
+      <label xml:lang="en" text="020 Library &amp; information sciences" />
+    </category>
+    <category ID="030">
+      <label xml:lang="de" text="030 Enzyklopädien" />
+      <label xml:lang="en" text="030 General encyclopedic works" />
+    </category>
+    <category ID="050">
+      <label xml:lang="de" text="050 Zeitschriften, fortlaufende Sammelwerke" />
+      <label xml:lang="en" text="050 General serials &amp; their indexes" />
+    </category>
+    <category ID="060">
+      <label xml:lang="de" text="060 Organisationen, Museumswirtschaft" />
+      <label xml:lang="en" text="060 General organization &amp; museology" />
+    </category>
+    <category ID="070">
+      <label xml:lang="de" text="070 Nachrichtenmedien, Journalismus, Verlagswesen" />
+      <label xml:lang="en" text="070 News media, journalismn, publishing" />
+    </category>
+    <category ID="080">
+      <label xml:lang="de" text="080 Allgemeine Sammelwerke" />
+      <label xml:lang="en" text="080 General collections" />
+    </category>
+    <category ID="090">
+      <label xml:lang="de" text="090 Handschriften, seltene Bücher" />
+      <label xml:lang="en" text="090 Manuscripts &amp; rare books" />
+    </category>
+    <category ID="100">
+      <label xml:lang="de" text="100 Philosophie" />
+      <label xml:lang="en" text="100 Philosophy" />
+    </category>
+    <category ID="150">
+      <label xml:lang="de" text="150 Psychologie" />
+      <label xml:lang="en" text="150 Psychology" />
+    </category>
+    <category ID="300">
+      <label xml:lang="de" text="300 Sozialwissenschaften, Soziologie, Anthropologie" />
+      <label xml:lang="en" text="300 Social sciences" />
+    </category>
+    <category ID="310">
+      <label xml:lang="de" text="310 Statistik" />
+      <label xml:lang="en" text="310 General statistics" />
+    </category>
+    <category ID="320">
+      <label xml:lang="de" text="320 Politik" />
+      <label xml:lang="en" text="320 Political science" />
+    </category>
+    <category ID="330">
+      <label xml:lang="de" text="330 Wirtschaft" />
+      <label xml:lang="en" text="330 Economics" />
+    </category>
+    <category ID="340">
+      <label xml:lang="de" text="340 Recht" />
+      <label xml:lang="en" text="340 Law" />
+    </category>
+    <category ID="350">
+      <label xml:lang="de" text="350 Öffentliche Verwaltung" />
+      <label xml:lang="en" text="350 Public administration" />
+    </category>
+    <category ID="355">
+      <label xml:lang="de" text="355 Militär" />
+      <label xml:lang="en" text="335 Military science" />
+    </category>
+    <category ID="360">
+      <label xml:lang="de" text="360 Soziale Probleme, Sozialdienste, Versicherungen" />
+      <label xml:lang="en" text="360 Social services, association" />
+    </category>
+    <category ID="370">
+      <label xml:lang="de" text="370 Erziehung, Schul- und Bildungswesen" />
+      <label xml:lang="en" text="370 Education" />
+    </category>
+    <category ID="610">
+      <label xml:lang="de" text="610 Medizin, Gesundheit" />
+      <label xml:lang="en" text="610 Medical sciences Medicine" />
+    </category>
+    <category ID="650">
+      <label xml:lang="de" text="650 Management" />
+      <label xml:lang="en" text="650 Management &amp; auxialiary services" />
+    </category>
+    <category ID="670">
+      <label xml:lang="de" text="670 Industrielle und handwerkliche Fertigung" />
+      <label xml:lang="en" text="670 Manufacturing" />
+    </category>
+    <category ID="900">
+      <label xml:lang="de" text="900 Geschichte" />
+      <label xml:lang="en" text="900 History" />
+    </category>
+    <category ID="920">
+      <label xml:lang="de" text="920 Biografie, Genealogie, Heraldik" />
+      <label xml:lang="en" text="920 Biography, genealogy, insignia" />
+    </category>
+  </categories>
+</mycoreclass>
