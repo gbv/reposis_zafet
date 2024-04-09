@@ -125,9 +125,9 @@
       <label xml:lang="de">Hinweise für Autorinnen und Autoren</label>
       <label xml:lang="en">Author Notes</label>
     </item>
-    <item href="/content/publish/contract.xml" type="intern">
-      <label xml:lang="de">Vertragsbedingungen</label>
-      <label xml:lang="en">Terms &amp; Conditions</label>
+    <item href="/content/publish/terms_of_use.xml" type="intern">
+      <label xml:lang="de">Nutzungsbedingungen</label>
+      <label xml:lang="en">Terms of use</label>
     </item>
     <item href="/content/publish/copyright.xml" type="intern">
       <label xml:lang="de">Urheberrecht</label>

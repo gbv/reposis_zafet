@@ -1,76 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MyCoReWebPage>
   <head>
-    <meta name="title" content="Urheberrecht"/>
-    <meta name="description" content="Hinweise zum Urheberrecht"/>
+    <meta name="title" content="Urheberrecht" />
+    <meta name="description" content="Hinweise zum Urheberrecht" />
   </head>
   <section xml:lang="de" title="Urheberrecht">
     <div class="row">
       <div class="col-md-12" lang="de">
-        <h2>Urheberrecht</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ullamcorper morbi tincidunt ornare massa eget egestas purus
-          viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Erat velit scelerisque in
-          dictum non consectetur a erat. Faucibus et molestie ac feugiat sed lectus. Turpis in eu mi
-          bibendum neque. At erat pellentesque adipiscing commodo elit at imperdiet dui. Ut porttitor leo
-          a diam. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Mollis nunc sed id
-          semper risus in hendrerit gravida rutrum. Eget nunc scelerisque viverra mauris. Et ligula
-          ullamcorper malesuada proin libero nunc. Felis donec et odio pellentesque. Quis ipsum
-          suspendisse ultrices gravida dictum. Amet dictum sit amet justo donec enim diam vulputate ut.
-          Consequat ac felis donec et odio pellentesque diam.
-        </p>
-
-        <h3>Überschrift 1</h3>
-
-        <p>Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Imperdiet sed euismod nisi
-          porta lorem mollis aliquam ut. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum
-          arcu. Nec feugiat in fermentum posuere urna nec tincidunt praesent. Praesent elementum facilisis
-          leo vel fringilla est. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Suscipit
-          tellus mauris a diam maecenas sed. Praesent elementum facilisis leo vel fringilla est
-          ullamcorper eget nulla. Orci sagittis eu volutpat odio facilisis mauris sit amet. Eget gravida
-          cum sociis natoque penatibus et magnis dis. In nisl nisi scelerisque eu. Massa tincidunt dui ut
-          ornare. Semper eget duis at tellus at urna condimentum mattis. Viverra suspendisse potenti
-          nullam ac tortor vitae purus faucibus ornare.
-        </p>
-
-        <h3>Überschrift 2</h3>
-
-        <p>Fermentum odio eu feugiat pretium nibh. Fermentum posuere urna nec tincidunt praesent semper
-          feugiat nibh sed. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Sit amet dictum
-          sit amet. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Viverra orci sagittis
-          eu volutpat. Non diam phasellus vestibulum lorem sed risus ultricies. Odio tempor orci dapibus
-          ultrices in iaculis nunc sed. Pharetra vel turpis nunc eget. Odio morbi quis commodo odio aenean
-          sed adipiscing. Amet cursus sit amet dictum sit. Nam libero justo laoreet sit amet cursus sit.
-          Amet risus nullam eget felis eget nunc lobortis mattis.
-        </p>
-
-        <h3>Überschrift 3</h3>
-
+        <h1>Hinweise zu Urheberrechtsfragen</h1>
         <p>
-          Odio aenean sed adipiscing diam donec adipiscing. Eget nunc lobortis mattis aliquam. Viverra
-          accumsan in nisl nisi scelerisque eu. Netus et malesuada fames ac turpis. Egestas integer eget
-          aliquet nibh praesent tristique magna sit. Ultrices neque ornare aenean euismod. Platea dictumst
-          quisque sagittis purus sit amet volutpat. Suscipit adipiscing bibendum est ultricies integer
-          quis. Varius quam quisque id diam vel quam elementum. At consectetur lorem donec massa sapien
-          faucibus. Volutpat consequat mauris nunc congue. Pellentesque dignissim enim sit amet venenatis.
-          Vitae tempus quam pellentesque nec nam aliquam. Tristique sollicitudin nibh sit amet commodo.
-          Felis donec et odio pellentesque.
+          Bei der Publikation der Dokumente im
+          Repositorium verbleiben die Urheberrechte bei Ihnen als wiss. AutorInnen und
+          UrheberInnen.
         </p>
-
-
-        <h3>Überschrift 4</h3>
-
-
-        <p>Potenti nullam ac tortor vitae purus faucibus ornare. Volutpat maecenas volutpat blandit aliquam
-          etiam. Orci eu lobortis elementum nibh tellus molestie nunc. Quam adipiscing vitae proin
-          sagittis nisl rhoncus mattis rhoncus urna. Est ullamcorper eget nulla facilisi etiam dignissim
-          diam quis enim. Risus at ultrices mi tempus imperdiet nulla. Non nisi est sit amet facilisis
-          magna etiam. Fermentum dui faucibus in ornare quam. Duis ultricies lacus sed turpis tincidunt id
-          aliquet risus. Sagittis vitae et leo duis ut diam quam nulla. Egestas dui id ornare arcu odio
-          ut.
+        <p>
+          Wir benötigen von Ihnen eine
+          schriftliche Einwilligung bzw. Erlaubnis (PDF-Formular 1: eine Publikation) bzw.
+          (PDF-Formular 2: mehrere Publikationen), damit Ihre Publikation(en) auf open HdBA
+          (Reposis) veröffentlicht und im Internet zur Verfügung gestellt werden kann/können.
+        </p>
+        <p>
+          Bitte holen Sie ggf. auch die
+          Einwilligung bzw. Erlaubnis von Co-Autorinnen und Co-Autoren ein. Die Einhaltung von
+          Urheber- und Verwertungsrechten Dritter liegt in der Verantwortung des/der AutorIn der
+          elektronischen Dokumente.
+        </p>
+        <p>
+          Für die vertraglich vom Verleger oder
+          Herausgeber unabdingbare Zweitveröffentlichung nach § 38 Abs. 4 UrhG ist zu ermitteln,
+          ob diese evtl. vertraglich zu günstigeren Bedingungen zulässig ist.
+        </p>
+        <p> Etliche Zeitschriftenverlage gestatten ihren AutorInnen bereits nach Ihren allgemeinen
+          Geschäftsbedingungen, ihre Aufsätze oder sonstige Publikationen <b>vorab als Preprint oder
+          parallel als Postprint</b> auf einem Archivierungsserver einer Hochschule ("institutional
+          repository") frei zugänglich zu veröffentlichen:
+          <ul>
+            <li>
+              Um festzustellen, welche Verlage und Zeitschriften den Autorinnen/den Autoren
+              dieses Recht einräumen, finden Sie Einzelheiten und Hilfestellung in der
+              SHERPA-Romeo-Liste (<a href="https://v2.sherpa.ac.uk/romeo/">link</a>).
+            </li>
+            <li>
+              Sind dort keine Angaben zu finden, müssten Ihre Autorinnenverträge/Autorenverträge
+              herangezogen werden, da die Vereinbarungen zwischen Verlag und den Autorinnen/den
+              Autoren sehr unterschiedlich geregelt sein können.
+            </li>
+            <li>
+              Auch die Hochschulbibliothek unterstützt Sie dabei, Ihre Veröffentlichungen zu prüfen.
+              Kontaktaufnahme hier (link Formular).
+            </li>
+          </ul>
+        </p>
+        <h2>Urheberrecht</h2>
+        <p>
+          Open Access gewährleistet einen besseren
+          Zugang zu wissenschaftlicher Information. Open Access ist jedoch mehr als ein
+          Lesezugang. Bei Open Access geht es auch um eine bessere Nachnutzbarkeit von
+          wissenschaftlichen Erkenntnissen, um die Förderung von Vernetzung von Wissenschaftlern
+          und deren Hochschulen, um die Verbesserung von Forschung und Reduktion derer
+          Redundanzen. Eine Nachbeforschung wissenschaftlicher Erkenntnisse ist zudem für die
+          wiss. Lehre interessant.
+        </p>
+        <h2>Creative-Commons-Lizenzen</h2>
+        <p>
+          Creative-Commons-Lizenzen erlauben es AutorInnen, selbst zu bestimmen und klar zu
+          kennzeichnen, wie ihre Veröffentlichung von anderen genutzt werden darf.
+        </p>
+        <p> Die HdBA empfiehlt ihren AutorInnen die Nutzung der offenen <b>Lizenz CC-BY</b>. Bei
+          dieser Lizenz erlaubt der/die Autor/in die freie Weiterverwendung der Inhalte, sofern bei
+          jeder Verwendung sie/er als Urheber/in, die ursprüngliche Quelle und die Lizenz genannt
+          werden. Eine offene Lizenz ermöglicht eine schnellere und breitere Zirkulation von
+          Forschungsergebnissen, auf welcher andere Wissenschaftler und Wissenschaftlerinnen
+          schneller aufbauen können. Die HdBA schließt sich mit ihrer Empfehlung der CC-BY-Lizenz
+          der Empfehlung des Wissenschaftsrates an.
+        </p>
+        <h2>ORCID</h2>
+        <p>
+          Eine Open Researcher and Contributor ID (ORCID) ist ein international anerkannter
+          eindeutiger und dauerhafter Identifikator für Wissenschaftler und Wissenschaftlerinnen.
+          Die ORCID sollte bei jeder Publikation angegeben werden.
+        </p>
+        <p>Gründe, welche für eine ORCID sprechen:</p>
+        <ul>
+          <li>
+            Autor und Autorinnen sind eindeutig zu identifizieren. Dieses ist insbesondere bei einer
+            Namensgleichheit mit anderen Forschenden wichtig.
+          </li>
+          <li>
+            Wissenschaftliche Veröffentlichungen werden eindeutig einer Person zugeordnet.
+          </li>
+          <li>
+            Die ORCID bleibt dauerhaft
+            gleich, auch wenn einzelne AutorInnen ihren Namen ändern oder den Arbeitgeber
+            wechseln.
+          </li>
+          <li>
+            AutorInnen können einen
+            Kurzlebenslauf veröffentlichen und sich damit eine Art digitale
+            wissenschaftliche Visitenkarte erstellen.
+          </li>
+        </ul>
+        <p>
+          Eine ORCID ist kostenlos und lässt sich
+          unkompliziert auf der Website von ORCID erstellen. Publikationen lassen sich automatisch
+          per Digital Object Identifier (DOI) oder aus anderen Datenbanken ins ORCID-Profil
+          überführen.
         </p>
       </div>
-
     </div>
   </section>
   <meta>

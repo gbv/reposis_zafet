@@ -7,54 +7,187 @@
     </head>
     <div class="row">
       <div class="col-md-12">
-        <h2>Hinweise für Autor/innen</h2>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ullamcorper morbi tincidunt ornare massa eget egestas purus
-          viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Erat velit scelerisque in
-          dictum non consectetur a erat. Faucibus et molestie ac feugiat sed lectus. Turpis in eu mi
-          bibendum neque. At erat pellentesque adipiscing commodo elit at imperdiet dui. Ut porttitor leo
-          a diam. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Mollis nunc sed id
-          semper risus in hendrerit gravida rutrum. Eget nunc scelerisque viverra mauris. Et ligula
-          ullamcorper malesuada proin libero nunc. Felis donec et odio pellentesque. Quis ipsum
-          suspendisse ultrices gravida dictum. Amet dictum sit amet justo donec enim diam vulputate ut.
-          Consequat ac felis donec et odio pellentesque diam.
+        <h1>Open HdBA</h1>
+        <p>
+          <b> Das Repositorium <i> open HdBA</i> (Reposis) stellt die wissenschaftlichen
+         Publikationen der Wissenschaftler der Hochschule kostenlos der interessierten
+         Öffentlichkeit zur Verfügung. Die Publikationen sind für Suchmaschinen, Datenbanken
+         und archivierende Institutionen zugänglich und können zuverlässig zitiert werden.
+         Damit erfüllt die HdBA ihre öffentlich-rechtliche wissenschaftsrelevante sog.
+         Open-Access-Pflicht nach § 2 Abs. 5 S. 3 a.E. LHG-BW zur Herstellung des freien
+         Zugangs zu wissenschaftlichen Informationen (sog. Open Access). 
+          </b>
         </p>
-        <p>Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Imperdiet sed euismod nisi
-          porta lorem mollis aliquam ut. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum
-          arcu. Nec feugiat in fermentum posuere urna nec tincidunt praesent. Praesent elementum facilisis
-          leo vel fringilla est. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Suscipit
-          tellus mauris a diam maecenas sed. Praesent elementum facilisis leo vel fringilla est
-          ullamcorper eget nulla. Orci sagittis eu volutpat odio facilisis mauris sit amet. Eget gravida
-          cum sociis natoque penatibus et magnis dis. In nisl nisi scelerisque eu. Massa tincidunt dui ut
-          ornare. Semper eget duis at tellus at urna condimentum mattis. Viverra suspendisse potenti
-          nullam ac tortor vitae purus faucibus ornare.
+       
+        <h2>Hinweise für Autorinnen und Autoren</h2>
+        <p>
+          <ul>
+         <li>
+           Publizieren für Wissenschaftlerinnen und Wissenschaftler
+         </li>
+         <li>
+           Publizieren und Archivieren von Forschungsdaten
+         </li>
+         <li>
+           Voraussetzungen und Empfehlungen
+         </li>
+         <li>
+           Vorgehensweise
+         </li>
+         <li>
+           Kontakt
+         </li>
+          </ul>
         </p>
-        <p>Fermentum odio eu feugiat pretium nibh. Fermentum posuere urna nec tincidunt praesent semper
-          feugiat nibh sed. Dignissim cras tincidunt lobortis feugiat vivamus at augue. Sit amet dictum
-          sit amet. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Viverra orci sagittis
-          eu volutpat. Non diam phasellus vestibulum lorem sed risus ultricies. Odio tempor orci dapibus
-          ultrices in iaculis nunc sed. Pharetra vel turpis nunc eget. Odio morbi quis commodo odio aenean
-          sed adipiscing. Amet cursus sit amet dictum sit. Nam libero justo laoreet sit amet cursus sit.
-          Amet risus nullam eget felis eget nunc lobortis mattis.
+       
+        <h3>1. Publikationen von WissenschaftlerInnen der HdBA</h3>
+        <p> Als WissenschaftlerInnen der HdBA veröffentlichen Sie Ihre Publikationen - Aufsätze in
+          Zeitschriften, Bücher, Tagungsbände, Forschungsberichte, Lern- und Lehrmaterialien,
+          Abschlussarbeiten etc. - kostenlos und zeitlich unbegrenzt im Repositorium <i>open HdBA</i>
+          .
+        </p>
+        <p> Es gibt zwei Möglichkeiten zur Open Access-Veröffentlichung:
+          <ul>
+         <li>
+           <b>Erstveröffentlichung</b> ist die Veröffentlichung einer Publikation, die
+           zuvor noch nicht erschienen ist. Der Zeitschriftenaufsatz wird unmittelbar im Open
+           Access, also für alle frei im Internet zugänglich, veröffentlicht. Für die hier
+           kostenfreie Veröffentlichung eines Aufsatzes verlangen viele Zeitschriftenverlage
+           Veröffentlichungsgebühren.
+         </li>
+         <li>
+           <b>Zweitveröffentlichung</b> ist die hier für den/die wissenschaftlichen AutorIn
+           kostenfreie - nichtgewerbliche - Veröffentlichung einer bereits erschienenen
+           Verlagspublikation. Z.B. ein Zeitschriftenaufsatz erschien zunächst im Closed Access -
+           hinter einer Bezahlschranke und wird nun unentgeltlich weltweit für jedermann verfügbar
+           gemacht. In der vertraglich nicht vom Verleger oder Herausgeber abdingbaren
+           Zweitveröffentlichung darf jede Veröffentlichung <b>spätestens 12 Monate</b> nach ihrer
+           Erstveröffentlichung im Open Access zweitveröffentlicht und frei zugänglich gemacht
+           werden. Einige Zeitschriftenverlage gestatten eine weitere Veröffentlichung auf einem
+           institutionellen Repositorium unter zT günstigeren Bedingungen (z. B. bereits früher,
+           nach einer vertraglich definierten sog. unterjährigen Embargofrist, die Veröffentlichung
+           von Preprints und Postprints).
+         </li>
+          </ul>
         </p>
         <p>
-          Odio aenean sed adipiscing diam donec adipiscing. Eget nunc lobortis mattis aliquam. Viverra
-          accumsan in nisl nisi scelerisque eu. Netus et malesuada fames ac turpis. Egestas integer eget
-          aliquet nibh praesent tristique magna sit. Ultrices neque ornare aenean euismod. Platea dictumst
-          quisque sagittis purus sit amet volutpat. Suscipit adipiscing bibendum est ultricies integer
-          quis. Varius quam quisque id diam vel quam elementum. At consectetur lorem donec massa sapien
-          faucibus. Volutpat consequat mauris nunc congue. Pellentesque dignissim enim sit amet venenatis.
-          Vitae tempus quam pellentesque nec nam aliquam. Tristique sollicitudin nibh sit amet commodo.
-          Felis donec et odio pellentesque.
+          Ihre Publikationen werden unter Wahrung des geltenden EU- bzw. deutschen Urheberrechts
+          veröffentlicht. Dieses bedeutet, dass <b>Ihr Urheberrecht bei Ihnen verbleibt</b>. 
         </p>
-        <p>Potenti nullam ac tortor vitae purus faucibus ornare. Volutpat maecenas volutpat blandit aliquam
-          etiam. Orci eu lobortis elementum nibh tellus molestie nunc. Quam adipiscing vitae proin
-          sagittis nisl rhoncus mattis rhoncus urna. Est ullamcorper eget nulla facilisi etiam dignissim
-          diam quis enim. Risus at ultrices mi tempus imperdiet nulla. Non nisi est sit amet facilisis
-          magna etiam. Fermentum dui faucibus in ornare quam. Duis ultricies lacus sed turpis tincidunt id
-          aliquet risus. Sagittis vitae et leo duis ut diam quam nulla. Egestas dui id ornare arcu odio
-          ut.
+        <p>
+          Sie übertragen der HdBA
+          lediglich das einfache, zeitlich unbefristete Nutzungsrecht an der von Ihnen
+          eingereichten
+          Publikation, um diese durch die HdBA bzw. deren Bibliothek/en auf ihren Servern zu
+          vervielfältigen, zu speichern, öffentlich zugänglich zu machen.
+        </p>
+        <p>
+          Bitte beachten Sie, dass ggf. zusätzlich neben Ihrer eigenen Einwilligung bzw. Erlaubnis
+          die Einwilligung bzw. Erlaubnis aller Co-AutorInnen einzuholen ist!
+        </p>
+        <p>
+          Ihre Publikation erhält einen persistenten Identifier (DOI, URN), wird
+          langzeitarchiviert
+          und kann mit Ihrem ORCiD-Account verknüpft werden. Die Metadaten werden in gängigen
+          Bibliothekskatalogen indexiert und
+          regelmäßig von Suchmaschinen übernommen (z.B. Deutsche Nationalbibliothek, BASE,
+          GoogleScholar, OpenAire).
+        </p>
+       
+        <h3>2. Publizieren und Archivieren von Forschungsdaten</h3>
+        <p>
+          Als WissenschaftlerIn der HdBA können Sie zudem Ihre Forschungsdaten im Repositorium
+          publizieren und archivieren lassen. Beim Publizieren erhält Ihr veröffentlichter
+          Datensatz einen
+          persistenten Identifier (DOI, URN), wird archiviert und kann mit Ihrem ORCiD-Account
+          verknüpft werden. Veröffentlichte Datensätze können frei oder eingeschränkt zugänglich
+          gemacht werden. Nähere Informationen erhalten Sie über das ZaFET und die Bibliothek.
+        </p>
+       
+        <h3>3. Voraussetzungen und Empfehlungen</h3>
+        <p>
+          <ul>
+         <li>
+           Zugehörigkeit: Sie sind Mitglied oder Angehörige/r der HdBA oder publizieren mit
+           Bezug zur HdBA als HdBA-Externer im Forschungs- und BA-Beschäftigungskontext
+         </li>
+         <li> Wahrung des Urheberrechts: Sie haben sicherzustellen, dass Sie über das
+           Urheberrecht des Werkes verfügen bzw. bei einer Co-Autorenschaft auch über <u>die
+           Einwilligung bzw. Erlaubnis Ihrer Co-AutorInnen</u> in die Veröffentlichung
+           verfügen. Die Bibliothek unterstützt Sie bei der urheberrechtlichen Prüfung. </li>
+         <li>
+           Zustimmung zu den Vertragsbedingungen: Sie haben die Nutzungsbedingungen der
+           HdBA
+           zur Veröffentlichung Ihrer Dokumente auf deren Repositorium Reposis (HdBA open)
+           anzuerkennen. Dies geschieht durch Ihre Freigabe auf dem online Formular in der
+           Eingabemaske (siehe Punkt "3. Vorgehensweise", Schritt 1)
+         </li>
+         <li>
+           Technische Formate: Sie haben die Möglichkeit, in jeglichen Dokumenttypen
+           (Text, Grafik, Audio- oder Videosequenzen, Forschungsdaten, etc.) zu
+           veröffentlichen.
+           Das Repositorium unterstützt alle Dateiformate, empfiehlt jedoch die Nutzung
+           offener
+           Formate (z.B. PDF/A, TeX, XML), die zur Langzeitarchivierung geeignet sind und
+           über frei
+           zugängliche Darstellungsprogramme angezeigt werden können. Ergänzend kann auch
+           das
+           Originalformat des Dokuments archiviert werden.
+         </li>
+         <li>
+           Zugriffbeschränkungen: Die Dokumente können in bestimmten begründeten Fällen
+           zugriffsbeschränkt sein oder werden.
+         </li>
+         <li>
+           Barrierefreiheit: Beachten Sie bei Ihrer Publikation die Anforderungen zur
+           Barrierefreiheit der Bundesagentur für Arbeit!
+         </li>
+         <li>
+           Veränderungen am Dokument: Nehmen sie notwendige Veränderungen am Dokument vor,
+           wird das geänderte Dokument als neue Version gespeichert. Bereits publizierte
+           Dokumente werden gelöscht oder verändert, sofern inhaltliche und rechtliche
+           Gründe
+           vorliegen. Die bibliografische Einordnung wird in der Eingabemaske entsprechend
+           angepasst.
+         </li>
+         <li>
+           Forschungsdaten: Achten Sie bei der Publikation bzw. Archivierung Ihrer
+           Forschungsdaten auf die Erstellung einer nachvollziehbaren Ordnerstruktur und
+           Dateibenennung. Möglichst sollte Ihrem Datensatz eine README-Datei mit
+           beschreibenden Metadaten beiliegen.
+         </li>
+          </ul>
+        </p>
+        <h3>4. Vorgehensweise</h3>
+        <p> 
+          Bitte erfassen Sie Ihre Publikationsdaten mit Volltexten, Dateien, Anhängen etc. über
+          die Erfassungsmaske im Repositorium (Menüpunkt Registrieren- Erfassen). Eine
+          Mustererfassung können Sie diesem <u>Beispiel</u> entnehmen. Mit der Erfassung
+          akzeptieren die Vertragsbedingungen. Eine Bestätigung der Zustimmung erhalten Sie per
+          E-Mail. 
+        </p>
+        <p> 
+          In der Erfassungsmaske vergeben Sie eine Lizenz für die Nutzungsrechte. Wir empfehlen
+          die Anwendung der Creative Commons-Lizenz CC-BY. Nähere Informationen zur Lizenzauswahl
+          finden Sie <u>hier</u>.
+        </p>
+        <p>
+          Die Bibliothek wird die Daten überprüfen, ergänzen, ggf. sich mit Ihnen zwecks Klärung
+          abstimmen und anschließend veröffentlichen. Änderungen können Sie anschließend
+          selbständig
+          oder über die Bibliothek vornehmen.
+        </p>
+        <h3>5. Kontakt</h3>
+        <p> Wir unterstützen Sie gern bei Ihren Veröffentlichungen, bei Fragen wenden Sie sich an
+          das Repositorium-Team:
+          <ul>
+         <li> Bibliothek: Dominic Funk - Schwerpunkt bibliothekarische Erfassung
+         </li>
+         <li> ZaFET: Marta Krepska-Baumgarten – Forschungsprojekte
+         </li>
+         <li> dLO: Andrea Baumann – technische Fragen
+         </li>
+          </ul>
         </p>
       </div>
     </div>
