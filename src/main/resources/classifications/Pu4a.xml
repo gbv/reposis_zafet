@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="Pu4a">
+  <label xml:lang="de" text="KDSF-Publikationen"/>
+  <label xml:lang="x-skos-exact" text="uri.gbv.de/terminology/kdsf/Pu4a"/>
+  <label xml:lang="x-uri" text="https://www.mycore.de/classifications/Pu4a"/>
+  <categories>
+    <category ID="Pu6">
+      <label xml:lang="de" text="Publikationstyp (kds.type.publication)" description="Kategorisierung aller Publikationsformate anhand von Eigenschaften wie Erscheinungsweise und Quelle, z.B. in Journalartikel, Sammelbandbeitrag, Monographie u.a.."/>
+      <label xml:lang="en" text="Publication type (kds.type.publication)" description="Categorization of all publishing formats based on criteria such as publication and source, e.g. in journal articles, book chapters, monographs."/>
+      <category ID="Pu22">
+        <label xml:lang="de" text="Buch"/>
+        <label xml:lang="en" text="Book"/>
+        <category ID="Pu13">
+          <label xml:lang="de" text="Monographie" description="Eine Monographie ist ein Buch, geschrieben von einem/einer Autor/-in oder mehreren Autoren/Autorinnen, das sich einem spezifischen Thema widmet und dieses umfassend und unter Berücksichtigung der relevanten Forschungsergebnisse darstellt. [Dieser Publikationstyp enthält auch: Fach- und Lehrbuch, Ausstellungskatalog, Karten, Übersetzung (wenn die Übersetzung eine substanzielle Forschungsleistung darstellt.)]"/>
+          <label xml:lang="en" text="Monograph" description="A monograph is a book written by a single or multiple authors dedicated to a specific topic, which it portrays comprehensively, including all relevant research findings. [This publication type also comprises: reference and text books, maps, exhibition catalog and translation if the latter is to be seen as substantial research achievement]"/>
+        </category>
+        <category ID="Pu23">
+          <label xml:lang="de" text="Sammelband" description="Ein Sammelband ist ein Buch, das von einer oder mehreren Personen herausgegeben wurde. Es enthält Beiträge in Form von Kapiteln oder Aufsätzen verschiedener Autor/-innen (siehe Sammelbandbeitrag). [Dieser Publikationstyp enthält auch: Festschrift, Gesetzeskommentare (Loseblattsammlung oder gebunden), Ausstellungskatalog, Karten.] Als Sammelband veröffentlichte Konferenzbände sind von dieser Kategorie ausgeschlossen und werden als Konferenzband (Pu43) kategorisiert."/>
+          <label xml:lang="en" text="Collection" description="A book that has been edited by one or more persons. It contains contributions by different authors in chapters or essays/articles (see inbook). [This publication type also includes festschrift (commemorative publications) and legal commentary (either loose-leaf collection or bound book), exhibition catalog, maps] Conference proceedings are excluded from this category (see conference proceedings, Pu43)."/>
+        </category>
+        <category ID="Pu43">
+          <label xml:lang="de" text="Konferenzband" description="Eine Publikation von Beiträgen, die als Sammelwerk erscheinen. Herausgeber/-innen können natürliche Personen oder Körperschaften sein. Sie enthält Beiträge zu Tagungen, Kongressen oder Wissenschaftlichen Konferenzen verschiedener Autor/-innen (siehe Konferenzbeitrag)."/>
+          <label xml:lang="en" text="Proceedings" description="A publication edited by an individual person, a group of persons or a corporation. It contains contributions of different authors to scientific conventions, conferences or congresses (see conference contribution)."/>
+        </category>
+      </category>
+      <category ID="Pu25">
+        <label xml:lang="de" text="Artikel" description="Ein Artikel ist ein abgeschlossener unselbstständiger Beitrag zu einem abgegrenzten Thema / einer Fragestellung, erstellt durch einen/eine Autor/-in oder mehrere Autor/-innen, der zusammen mit anderen Beiträgen z.B. in einem Buch oder einer Zeitschrift veröffentlicht wurde. Als Artikel veröffentlichte Konferenzbeiträge (z.B. in einem Konferenzband) sind von dieser Kategorie ausgeschlossen und werden als Konferenzbeitrag (Pu31) kategorisiert."/>
+        <label xml:lang="en" text="Article" description="An article is a self-contained contribution to a defined theme / one question, created by one or more authors, along with other contributions published in a book or journal. A published contribution to a conference (e.g. through conference proceedings) is to be categorized as conference contribution (Pu31)."/>
+        <category ID="Pu11">
+          <label xml:lang="de" text="Journalartikel" description="Ein Journalartikel ist ein wissenschaftlicher Artikel, der in einer wissenschaftlichen Zeitschrift, einem periodisch oder fortlaufend erscheinenden Medium veröffentlicht ist. [Beim Publikationstyp Journalartikel soll noch nach Dokumenttypen wie u.a. Forschungsartikel, Review, Letter to the Editor, Editorial unterschieden werden. [Er umfasst auch Case Study, unter Letter können auch Urteilsanmerkungen erfasst werden]]"/>
+          <label xml:lang="en" text="Journal Article" description="A journal article is a scientific article that is published in a scientific journal in a periodically or continuously appearing medium. [Journal article as publication type should include and distinguish (amongst others) the following document types: research article, review, letter to the editor, editorial. [It also includes case study, annotations to judgments can be subsumed under letters (short communications)]]"/>
+        </category>
+        <category ID="Pu29">
+          <label xml:lang="de" text="Preprint" description="Ein Preprint ist ein wissenschaftliches Manuskript, welches (noch) kein Begutachtungsverfahren durchlaufen hat. Preprints werden über im jeweiligen Fach anerkannte Preprintserver veröffentlicht (z.B. über arXiv.org). Preprints sind abzugrenzen vom Publikationstyp Arbeitspapier/Forschungsbericht (Pu37)."/>
+          <label xml:lang="en" text="Preprint" description="A preprint is a scientific manuscript, which has not (yet) sbujected to a review process. Preprints are published on dicipline-specific recognized preprint servers (e.g. arXiv.org). Preprints are to be distinguished from the publication type working paper (Pu37)."/>
+        </category>
+        <category ID="Pu110">
+          <label xml:lang="de" text="Sammelbandbeitrag" description="Ein Sammelbandbeitrag ist ein Kapitel oder ein Abschnitt eines Sammelbandes und wird mit diesem über Quelle (Pu143) verknüpft. [Dieser Publikationstyp enthält auch: Enzyklopädie-Artikel, Gesetzeskommentar.]"/>
+          <label xml:lang="en" text="Inbook" description="An inbook is a chapter or a section of an edited book. It is related to the edited book by the Source (Pu143). [This publication type also includes: encyclopedia articles, legal commentary]"/>
+        </category>
+      </category>
+      <category ID="Pu31">
+        <label xml:lang="de" text="Konferenzbeitrag" description="Ein Konferenzbeitrag ist ein veröffentlichter und permanent verfügbarer Beitrag zu einer Konferenz in Form eines Konferenzpapers, eines Konferenzposters, von wissenschaftlichen Vortragsfolien oder eines Meeting Abstracts."/>
+        <label xml:lang="en" text="Conference Contribution" description="A conference contribution is a published and permanently available contribution to a conference. This category includes conference papers, conference posters, scientific presentation slides and meeting abstracts."/>
+        <category ID="Pu26">
+          <label xml:lang="de" text="Konferenzposter" description="Ein Konferenzposter ist eine visuelle Präsentation wissenschaftlicher Ergebnisse, die auf einer Konferenz präsentiert und als solche bzw. als Kurzbeitrag im Konferenzband oder separat veröffentlicht wurde und permanent verfügbar ist."/>
+          <label xml:lang="en" text="Conference Poster" description="A conference poster is a visual presentation of scientific findings that has been presented at a conference and is published as such or as short contribution in the proceedings or separately and is available there permanently."/>
+        </category>
+        <category ID="Pu28">
+          <label xml:lang="de" text="Konferenzpaper" description="Ein Konferenzpaper ist ein Beitrag zu einem abgegrenzten Thema / einer Fragestellung, erstellt durch einen/eine oder mehrere Autoren/Autorinnen, der zusammen mit anderen Beiträgen im Rahmen einer wissenschaftlichen Konferenz präsentiert und z.B. in einem Konferenzband veröffentlicht wurde."/>
+          <label xml:lang="en" text="Conference Paper" description="A conference paper is a self-contained contribution to a defined theme / one question, created by one or more authors, along with other contributions presented in a scientific conference and published e.g. in a conference proceedings."/>
+        </category>
+        <category ID="Pu44">
+          <label xml:lang="de" text="Wissenschaftliche Vortragsfolien" description="Vortragsfolien sind öffentlich zugängliche visuelle Darstellungen von mündlichen Beiträgen auf wissenschaftlichen Veranstaltungen. [z.B. auf slideshare.net veröffentlicht]"/>
+          <label xml:lang="en" text="Scientific Slides" description="Slides are publicly available visual representations of oral contributions given at scientific events. [e.g. published on slideshare.net]"/>
+        </category>
+        <category ID="Pu48">
+          <label xml:lang="de" text="Meeting Abstract" description="Ein Meeting Abstract ist ein kurzer Text, der ein Konferenzpaper, ein Konferenzposter oder eine Präsentation in einer wissenschaftlichen Konferenz zusammenfasst und der (z.B. in einem Konferenzband) veröffentlicht wurde und dauerhaft verfügbar ist."/>
+          <label xml:lang="en" text="Meeting Abstract" description="A meeting abstract is a short text that summarizes a conference paper, a conference poster or a presentation at a scientific conference and is published (e.g. in a conference proceedings) and permanently available."/>
+        </category>
+      </category>
+      <category ID="Pu37">
+        <label xml:lang="de" text="Arbeitspapier/Forschungsbericht" description="Ein Arbeitspapier ist eine öffentliche wissenschaftliche Publikation, die entweder von der Institution herausgegeben wird, in der die Forschung stattfindet, oder im Auftrag einer Institution angefertigt wurde. Dieser Publikationstyp enthält auch: Gutachten, Forschungs- und Abschlussberichte öffentlicher Einrichtungen, wissenschaftliche Expertisen und Studien]."/>
+        <label xml:lang="en" text="Working Paper" description="A working paper is a public scientific publication that is issued either by the institution where the research takes place, or was made on behalf of an institution. This publication type also contains: appraisals, research and final reports of public institutions, scientific expertise and resources]."/>
+      </category>
+      <category ID="Pu38">
+        <label xml:lang="de" text="Forschungsdaten" description="Forschungsdaten sind Daten, die im wissenschaftlichen Arbeitsprozess generiert oder verarbeitet werden. Art und Form variieren über Fachdisziplinen. Forschungsdaten umfassen z.B. Erhebungs-, Mess- und strukturierte Beobachtungsdaten, Surveydaten, Metadaten sowie Zusammenstellungen von Texten, graphisch-visuellen Materialien und Simulationen. Der Publikationstyp umfasst Sets von digitalen und/oder analogen Forschungsdaten, die öffentlich zugänglich sind oder zu wissenschaftlichen Zwecken aufbereitet wurden (Scientific Use Files). Eine Dokumentation dazu muss zugänglich sein. Software stellt gemäß Kerndatensatz Forschung einen eigenen Publikationstyp dar (Pu45)."/>
+        <label xml:lang="en" text="Research Data" description="Research data are data generated or processed during research. Type and form vary over academic disciplines. Research data comprise collections, measurements, structured observations, survey data, metadata as well as compilations of texts, graphic-visualmaterials and simulations. This publication type comprises sets of digital and/or analog research data that are published or processed for scientific purposes (scientific use files). This includes a publicly available documentation. Software is assigned to a separate publication type (Pu45)."/>
+      </category>
+      <category ID="Pu39">
+        <label xml:lang="de" text="Beitrag in nicht-wissenschaftlichen Medien" description="Beitrag mit Bezug auf wissenschaftliche Tätigkeiten, veröffentlicht in Massenmedien (z.B. Zeitungen, nicht-wissenschaftliche Zeitschriften, Blogs, Rundfunk oder Fernsehen). [Dieser Publikationstyp enthält auch: Virtuelle Ausstellung, Film.]"/>
+        <label xml:lang="en" text="Contribution in non-academic media" description="Contribution related to scientific activities published in mass media (e.g. newspaper, non-academic perio-dicals, blogs, radio, or TV). [This publication type also includes virtual exhibitions and films]"/>
+      </category>
+      <category ID="Pu42">
+        <label xml:lang="de" text="Beitrag in wissenschaftlichen Blogs" description="Beitrag mit Bezug auf wissenschaftliche Tätigkeiten, veröffentlicht in wissenschaftlichen Blogs."/>
+        <label xml:lang="en" text="Contribution in science blogs" description="Contribution referring to scientific activities, published in science blogs."/>
+      </category>
+      <category ID="Pu45">
+        <label xml:lang="de" text="Software" description="Software bezeichnet wissenschaftliche Computerprogramme mit einer dazugehörigen Dokumentation. [Der Publikationstyp umfasst auch Manuale.]"/>
+        <label xml:lang="en" text="Software" description="Software is a generic term for computer programs and their associated documentation, as opposed to data used as input and generated as output. [The publication type also comprises manuals]"/>
+      </category>
+      <category ID="Pu49">
+        <label xml:lang="de" text="Integrierende Ressource" description="Integrierende Ressourcen umfassen physische Loseblattsammlungen, die durch Ergänzungslieferungen laufend aktualisiert werden sowie dynamische Online-Ressourcen (z.B. Blogs und Webauftritte) mit laufenden Ergänzungen, Updates, Ersetzungen oder Löschungen (Orientiert an RDA-Bezeichnung: Integrierende Ressource)."/>
+        <label xml:lang="en" text="Integrating resources" description="Integrating resources comprise loose-leaf publications that have continuous additions as well as dynamic online ressources (e.g. blogs and websites) with continually added, updated, replaced or deleted material (According to RDA content type: Integrating resource)."/>
+      </category>
+      <category ID="Pu51">
+        <label xml:lang="de" text="Sonderheft einer Zeitschrift" description="Ein Sonderheft einer Zeitschrift, das von einer oder mehreren Personen herausgegeben wurde. Es enthält Beiträge in Aufsätzen verschiedener Autor/-innen zu einem spezifischen Thema oder einer Konferenz."/>
+        <label xml:lang="en" text="Special issue of a journal" description="A special issue of a journal edited by one or more persons. It contains contributions from different authors about a specific topic or a conference."/>
+      </category>
+      <category ID="Pu111">
+        <label xml:lang="de" text="Sonstiger Publikationstyp" description="Das Werk kann nicht einem der vorhandenen Publikationstypen zugeordnet werden. Es wird darum gebeten, in diesem Fall einen Vorschlag für einen neuen Publikationstyp einzureichen. Dieser sollte eine klare und möglichst allgemeine Definition wie auch die Abgrenzung von ähnlichen bereits vorliegenden Publikationstypen enthalten."/>
+        <label xml:lang="en" text="Other publication type" description="The work cannot be attributed to one of the available publication types. In this case a suggestion for a new publication type should be made. This suggestion should include a clear and comprehensive definition as well as clues for the discrimination against the existing publication types."/>
+      </category>
+    </category>
+    <category ID="Pu101">
+      <label xml:lang="de" text="Dokumenttyp (kds.type.document)" description="Unterkategorisierung von unselbstständigen Werken (Artikel, Pu25) nach vorwiegend inhaltlichen Kriterien in die folgenden Dokumenttypen: Editorial, Letter to the Editor, wissenschaftlicher Artikel, Review, Bibliographie, Rezension, Quellenedition und Sonstiger Dokumenttyp. Unterkategorisierung von selbstständigen Werken (Buch, Pu22) nach vorwiegend inhaltlichen Kriterien in die folgenden Dokumenttypen: Bibliographie, Rezension, Quellenedition und Sonstiger Dokumenttyp."/>
+      <label xml:lang="en" text="document type (kds.type.document)" description="Subcategorization of articles predominantly with regard to the following document types: Editorial, letter to the editor, research article, review, bibliography, review, source edition and other document type. Subcategorization of books predominantly with regard to the following document types: bibliography, review, source edition and other document type."/>
+      <category ID="Pu112">
+        <label xml:lang="de" text="Wissenschaftlicher Artikel"/>
+        <label xml:lang="en" text="Research Article"/>
+      </category>
+      <category ID="Pu30">
+        <label xml:lang="de" text="Rezension" description="Eine Rezension ist ein Artikel, der eine kritische Bewertung eines Werkes (manchmal auch mehrerer Werke) beinhaltet."/>
+        <label xml:lang="en" text="Write-up" description="A review is a critical appraisal of an opus (sometimes more than just one book)."/>
+      </category>
+      <category ID="Pu114">
+        <label xml:lang="de" text="Review" description="Ein Review ist ein Überblicksartikel, der die Summe von veröffentlichten wissenschaftlichen Arbeiten zu einem Thema zusammenfasst; normalerweise von einer besonders qualifizierten Person geschrieben."/>
+        <label xml:lang="en" text="Review" description="A review is an evaluative account of a published scholarly work, usually written and signed by a qualified person."/>
+      </category>
+      <category ID="Pu120">
+        <label xml:lang="de" text="Letter to the Editor" description="Zuschrift an die Redaktion."/>
+        <label xml:lang="en" text="Letter to the Editor" description="Communication to the editor."/>
+      </category>
+      <category ID="Pu121">
+        <label xml:lang="de" text="Editorial" description="Durch den/die Herausgeber/-in oder im Auftrag des/der Herausgebers/Herausgeberin verfasster Text, der die Meinung der Redaktion /des Herausgeber/-innengremiums wiedergibt."/>
+        <label xml:lang="en" text="Editorial" description="A text which is written by or on behalf of the editor or publisher, which represents the opinion of the editor / editorial board."/>
+      </category>
+      <category ID="Pu129">
+        <label xml:lang="de" text="Bibliographie" description="Eine Bibliographie ist ein systematisches Verzeichnis von Literaturnachweisen in Form eines Artikels oder eines Buches. Sie kann Kommentare / Annotationen enthalten."/>
+        <label xml:lang="en" text="Bibliography" description="A bibliography is a systematic list of publications, published as an article or a book. It may contain commentaries / annotations."/>
+      </category>
+      <category ID="Pu130">
+        <label xml:lang="de" text="Quellenedition" description="Eine Quellenedition ist die Publikation von geschichts- oder kulturwissenschaftlichen Quellen mit einem substanziellen Beitrag des Quelleneditors in Form eines Artikels oder eines Buches. [Dieser Dokumenttyp enthält auch: Wissenschaftliche Musikedition]"/>
+        <label xml:lang="en" text="Source Edition" description="A scholarly edition of primary sources is the publication of historic or cultural sources with a substantial contribution of the source editor published as an article or a book. [This document type also contains: Academic Music Edition]"/>
+      </category>
+      <category ID="Pu100">
+        <label xml:lang="de" text="Sonstiger Dokumenttyp" description="Das Werk kann keinem der vorhanden Dokumenttypen zugeordnet werden. Es wird darum gebeten, in diesem Fall einen Vorschlag für einen neuen Dokumenttyp einzureichen. Dieser sollte eine klare und möglichst allgemeine Definition wie auch die Abgrenzung von ähnlichen bereits vorliegenden Dokumenttypen enthalten."/>
+        <label xml:lang="en" text="Other document type" description="The work cannot be attributed to one of the available document types. In this case a suggestion for a new document type should be made. This suggestion should include a clear and comprehensive definition as well as clues for the discrimination against the existing document types."/>
+      </category>
+    </category>
+    <category ID="Pu102">
+      <label xml:lang="de" text="Darstellungsform (kdsf.type.form)" description="Die Darstellungsform spezifiziert die überwiegende Form der Kommunikation für bestimmte Publikationstypen (Pu6) und gibt an, mit welchem Sinn der Inhalt wahrgenommen wird (Orientiert an RDA-Bezeichnung: Inhaltstyp).  Zu markierende Publikationstypen: - Forschungsdaten (Pu38) - Beitrag in nicht-wissenschaftlichen Medien (Pu39) - Beitrag in wissenschaftlichen Blogs (Pu42) - Integrierende Ressource (Pu49) - Sonstiger Publikationstyp (Pu111)"/>
+      <label xml:lang="en" text="Format" description="The format reflects the fundamental form of communication in which the content is expressed for certain publication types (Pu6) and the human sense through which it is intended to be perceived (According to RDA name: Content type)."/>
+      <category ID="Pu106">
+        <label xml:lang="de" text="Text" description="Eine Darstellungsform, die aus Inhalt besteht, der durch eine Notationsform für Sprache ausgedrückt wird und für die visuelle Wahrnehmung konzipiert ist (Orientiert an RDA-Bezeichnung: Inhaltstyp: Text)."/>
+        <label xml:lang="en" text="Text" description="A format consisting of content expressed through a form of notation for language intended to be perceived visually (According to RDA name: Content type: text)."/>
+      </category>
+      <category ID="Pu107">
+        <label xml:lang="de" text="Bild" description="Eine Darstellungsform, die aus Inhalt besteht, der durch Linie, Form, Schattierung usw. ausgedrückt wird und konzipiert ist, um visuell zweidimensional als unbewegtes Bild oder Bilder wahrgenommen zu werden (Orientiert an RDA-Bezeichnung: Inhaltstyp: Unbewegtes Bild). Beispiele sind Zeichnungen, Gemälde, Fotografien, Karten, Diagramme oder Visualisierungen in jeder physischen oder digitalen Repräsentation."/>
+        <label xml:lang="en" text="Still image" description="A format consisting of content expressed through line, shape, shading, etc., intended to be perceived visually as a still image or images in two dimensions (According to RDA name: Content type: still image). Examples are drawings, paintings, photographs, diagrams or visualizations in any physical or digital representation."/>
+      </category>
+      <category ID="Pu108">
+        <label xml:lang="de" text="Audio" description="Eine Darstellungsform, die aus Inhalt (inkl. analoger/digitaler Sprache oder Musik) besteht, der in einer hörbaren Form ausgedrückt wird (Orientiert an RDA-Bezeichnung: Inhaltstyp: Aufgeführte Musik, Geräusche, Gesprochenes Wort)."/>
+        <label xml:lang="en" text="Audio" description="A format consisting of content (including analog/digital language or music), expressed in an audible form (According to RDA name: content type: performed music, sounds, spoken word)."/>
+      </category>
+      <category ID="Pu109">
+        <label xml:lang="de" text="Bewegte Bilder" description="Eine Darstellungsform, die aus Inhalt (inkl. kartographischem) besteht, der durch Bilder dargestellt wird und konzipiert ist, um als zwei- oder dreidimensionale Bewegung wahrgenommen zu werden (Orientiert an RDA-Bezeichnung: Inhaltstyp: Kartographisches bewegtes Bild, Zweidimensionales bewegtes Bild, Dreidimensionales bewegtes Bild). Beispiele sind Filme, Videos oder Simulationen in jeder physischen oder digitalen Repräsentation."/>
+        <label xml:lang="en" text="Moving image" description="A format consisting of content (including cartographic) expressed through images intended to be percei-ved to be moving, and in two or three dimensions (According to RDA name: content type: cartographic moving image, two-dimensional moving image, three-dimensional moving image). Examples are flip-books, motion pictures, videos or simulations in any physical or digital representation."/>
+      </category>
+      <category ID="Pu50">
+        <label xml:lang="de" text="Sonstige Darstellungsform" description="Andere Darstellungsform, die keiner der genannten Kategorien zugeordnet werden kann. Es wird darum gebeten, in diesem Fall einen Vorschlag für eine neue Bezeichnung der Darstellungsform einzureichen. Dieser sollte eine klare und möglichst allgemeine Definition wie auch die Abgrenzung von ähnlichen bereits vorliegenden Darstellungsformen enthalten."/>
+        <label xml:lang="en" text="Other format" description="In this case a suggestion for a new format should be made. This suggestion should include a clear and comprehensive definition as well as clues for the discrimination against the existing formats."/>
+      </category>
+    </category>
+    <category ID="Pu146">
+      <label xml:lang="de" text="Qualifikationsschrift (kds.type.thesis)" description="Qualifikationsschriften umfassen Dissertationen und Habilitationen. Es ist anzugeben ob es sich bei der Publikation um eine Qualifikationsschrift handelt. In diesem Fall ist die Art der Qualifikationsschrift (Dissertation oder Habilitation) anzugeben. RDA-Bezeichnung: Hochschulschriftenvermerk"/>
+      <label xml:lang="en" text="Qualification Theses (kds.type.thesis)" description="Qualification Theses include Doctoral and Habilitation Theses. It is to be indicated whether the publication is a Qualification Thesis. In this case, the type of qualification (habilitation or dissertation) must be specified. DA name: Dissertation or thesis information"/>
+      <category ID="Pu34">
+        <label xml:lang="de" text="Dissertation" description="Eine Dissertation ist eine wissenschaftliche Arbeit für den Erwerb des Doktorgrades."/>
+        <label xml:lang="en" text="Dissertation" description="A dissertation is a scientific work needed for the completion of a doctorate (PhD) degree."/>
+      </category>
+      <category ID="Pu35">
+        <label xml:lang="de" text="Habilitationsschrift" description="Eine Habilitation ist eine wissenschaftliche Arbeit für den Erwerb der universitären Lehrbefähigung."/>
+        <label xml:lang="en" text="Habilitation" description="A habilitation is a scientific work needed for receiving the Venia legendi."/>
+      </category>
+    </category>
+  </categories>
+</mycoreclass>
