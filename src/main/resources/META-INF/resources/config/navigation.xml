@@ -44,19 +44,11 @@
     <!-- search menu  -->
     <label xml:lang="de">Recherche</label>
     <label xml:lang="en">Search</label>
-    <item href="/content/search/simple.xed" type="intern">
+    <item href="/servlets/MCRActionMappingServlet/search/simple" type="intern">
       <label xml:lang="de">Einfach</label>
       <label xml:lang="en">Simple</label>
     </item>
-    <item href="/content/search/simple_intern.xed" type="intern">
-      <label xml:lang="de">Einfach</label>
-      <label xml:lang="en">Simple</label>
-    </item>
-    <item href="/content/search/complex.xed" type="intern">
-      <label xml:lang="de">Komplex</label>
-      <label xml:lang="en">Complex</label>
-    </item>
-    <item href="/content/search/complex_intern.xed" type="intern">
+    <item href="/servlets/MCRActionMappingServlet/search/complex" type="intern">
       <label xml:lang="de">Komplex</label>
       <label xml:lang="en">Complex</label>
     </item>
@@ -89,21 +81,17 @@
   <!-- collection menu  -->
     <label xml:lang="de">Sammlungen</label>
     <label xml:lang="en">Collections</label>
-    <item href="/servlets/solr/select?core=main&amp;q=mods.genre%3Aarticle">" type="intern">
+    <item href="/servlets/MCRActionMappingServlet/search/collections_discussion" type="intern">
       <label xml:lang="de">Discussion Papers</label>
       <label xml:lang="en">Discussion Papers</label>
     </item>
-    <item href="/servlets/solr/select?core=main&amp;q=mods.genre%3Aarticle">" type="intern">
+    <item href="/servlets/MCRActionMappingServlet/search/collections_working" type="intern">
       <label xml:lang="de">Working Papers</label>
       <label xml:lang="en">Working Papers</label>
     </item>git
-    <item href="/content/collections/sead-ba-collections.xml" type="intern">
+    <item href="/servlets/MCRActionMappingServlet/search/collections_sead_ba" type="intern">
       <label xml:lang="de">SEAD-BA Sammlung</label>
       <label xml:lang="en">SEAD-BA Collection</label>
-    </item>
-    <item href="/content/collections/announcements.xml" type="intern">
-      <label xml:lang="de">Bekanntmachungen der HdBA</label>
-      <label xml:lang="en">Announcements by the HdBA</label>
     </item>
   </menu>
   <menu id="publish" dir="/content/publish">
