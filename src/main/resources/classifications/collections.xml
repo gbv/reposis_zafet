@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="collections">
+  <label xml:lang="de" text="HdBA Sammlungen" description="Liste der Sammlungen" />
+  <label xml:lang="en" text="HdBA collections" description="List of collections" />
+  <label xml:lang="x-uri" text="https://open.hdba.de/api/v2/classifications/collections" />
+  <categories>
+    <category ID="discussion_papers">
+      <label xml:lang="en" text="Discussion Papers" />
+      <label xml:lang="de" text="Discussion Papers" />
+    </category>
+    <category ID="working_papers">
+      <label xml:lang="en" text="Working Papers" />
+      <label xml:lang="de" text="Working Papers" />
+    </category>
+    <category ID="sead_ba">
+      <label xml:lang="en" text="SEAD-BA collection" />
+      <label xml:lang="de" text="SEAD-BA Sammlung" />
+    </category>
+  </categories>
+</mycoreclass>
