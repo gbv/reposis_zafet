@@ -34,27 +34,17 @@ $(document).ready(function() {
 
   // replace placeholder USERNAME with username
   var userID = $("#currentUser strong").html();
-  var newHref = 'https://reposis-test.gbv.de/zafet/servlets/solr/select?q=createdby:' + userID + '&fq=objectType:mods';
-  $("a[href='https://reposis-test.gbv.de/zafet/servlets/solr/select?q=createdby:USERNAME']").attr('href', newHref);
+  var newHref = webApplicationBaseURL + '/servlets/solr/select?q=createdby:' + userID + '&fq=objectType:mods';
+  $("a[href='" + webApplicationBaseURL + "/servlets/solr/select?q=createdby:USERNAME']").attr('href', newHref);
 
-  //window.setInterval(changeBackground, 10000);
+  changeBackground();
 
-  $(".jsChangeBack").click(function() {
-    changeBackground();
-  });
 });
 
 function changeBackground()
 {
-  console.log("change image now");
-  //var randomImage = Math.floor(Math.random() * imageListe.length);
-  //$("body> section").css("background-image","url('../images/figures/" + imageListe[randomImage] + "')");
-  if ( imagePointer+1 < imageListe.length ) {
-    imagePointer = imagePointer +1;
-  } else {
-    imagePointer = 0;
-  }
-  $("body> section").css("background-image","url('../images/figures/" + imageListe[imagePointer] + "')");
+  var randomImage = Math.floor(Math.random() * imageListe.length);
+  $("body> section").css("background-image","url('" + webApplicationBaseURL + '/images/figures/' + imageListe[randomImage] + "')");
 }
 
 

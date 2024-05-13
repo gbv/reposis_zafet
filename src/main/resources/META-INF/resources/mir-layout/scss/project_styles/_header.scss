@@ -29,18 +29,6 @@
     }
   }
 
-  .jsChangeBack {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 1rem;
-    height: 1rem;
-    background-color: white;
-    border: 1px solid black;
-    border-radius: 50%;
-    cursor: pointer;
-  }
-
 // Large devices (desktops) and below: <= 1200px
 @include media-breakpoint-down(lg) {
   // add/overwrite styles for responsive level lg and lower
