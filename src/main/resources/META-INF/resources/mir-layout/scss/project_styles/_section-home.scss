@@ -70,4 +70,21 @@ body.mir-start_page {
 // Extra small devices (portrait phones): <= 576px
 @include media-breakpoint-down(xs) {
   // add/overwrite styles for responsive level xs
+  body.mir-start_page {
+    & > section {
+      #page {
+        #main_content {
+          #project-index-search {
+            & > .row {
+              .splash {
+                #project-searchMainPage {
+                  width: 100%;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

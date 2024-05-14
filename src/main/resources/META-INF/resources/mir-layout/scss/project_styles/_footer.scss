@@ -38,6 +38,22 @@
       }
     }
   }
+  .project-footer-menu {
+    .nav {
+      margin-top: 0;
+      margin-bottom: 2rem;
+      flex-direction: column !important;
+      &  > li {
+        padding-bottom: 1.25rem;
+        a {
+          padding: 0;
+          &:hover {
+            background-color: transparent;
+          }
+        }
+      }
+    }
+  }
 
   #powered_by {
     border-top: none;

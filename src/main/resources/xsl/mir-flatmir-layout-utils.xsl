@@ -13,7 +13,7 @@
     <div id="header_box" class="container">
       <div class="row">
 
-        <div class="col-6">
+        <div class="col-12 col-sm-6 order-2 order-sm-1">
           <div class="project_logo_box">
             <a href="https://www.hdba.de/"
                class="project_logo_link--header">
@@ -25,7 +25,7 @@
         <!--
         {concat($WebApplicationBaseURL,substring($loaded_navigation_xml/@hrefStartingPage,2),$HttpSession)}
         -->
-        <div class="col">
+        <div class="col order-1 order-sm-2 mb-3 mb-sm-0">
           <div class="mir-prop-nav">
             <nav>
               <ul class="navbar-nav ml-auto flex-row">
@@ -124,8 +124,12 @@
       <div class="project-footer-menu">
         <div class="container">
           <div class="row">
-            <div class="col-4">
-              <h2/>
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 order-2 order-sm-2 mt-3 mt-sm-0">
+              <ul class="nav flex-column flex-md-row flex-lg-column">
+                <xsl:apply-templates select="$loaded_navigation_xml/menu[@id='below']/*" />
+              </ul>
+            </div>
+            <div class="col-12 col-sm-6 col-md-8 col-lg-9 order-1 order-sm-2">
               <p>
                 Das Repositorium open HdBA stellt die Publikationen der Hochschule als Open Access im Volltext und mit
                 Hochschulbibliographie zur Verfügung. Die Publikationen sind für Suchmaschinen, Datenbanken und archivierende
@@ -133,12 +137,7 @@
                 Zugang zu wissenschaftlichen Erkenntnissen leisten.
               </p>
             </div>
-            <div class="col-6">
-              <h2/>
-              <ul class="internal_links">
-                <xsl:apply-templates select="$loaded_navigation_xml/menu[@id='below']/*"/>
-              </ul>
-            </div>
+
           </div>
         </div>
       </div>
