@@ -40,3 +40,8 @@
     font-size: 2.5rem;
   }
 }
+
+// Ensure the the info button stays on the same line as the other buttons
+.shariff .orientation-horizontal li {
+  margin-right: 0.8%;
+}
