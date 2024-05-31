@@ -4,6 +4,13 @@
   <label xml:lang="en" text="genre" description="A list of publication types" />
   <label xml:lang="x-uri" text="http://www.mycore.org/classifications/mir_genres" />
   <categories>
+    <category ID="document">
+      <label xml:lang="de" text="Dokument" />
+      <label xml:lang="en" text="Document" />
+      <label xml:lang="it" text="Documento" />
+      <label xml:lang="x-hosts" text="standalone" />
+      <label xml:lang="x-mapping" text="marcgt:document diniPublType:other diniPublType2022:Other schemaOrg:DigitalDocument" />
+    </category>
     <category ID="article">
       <label xml:lang="de" text="Artikel / Aufsatz" />
       <label xml:lang="en" text="Article / Chapter" />
