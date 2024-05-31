@@ -85,6 +85,10 @@
 
   <!-- ========== project specific templates ========== -->
 
+  <xed:template id="genres.document">
+    <xed:include ref="genres.article" />
+  </xed:template>
+
   <xed:template id="genres.working_paper">
     <xed:include ref="genres.article" />
   </xed:template>
