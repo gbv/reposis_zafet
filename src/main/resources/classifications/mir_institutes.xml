@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink"
-             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-             xsi:noNamespaceSchemaLocation="MCRClassification.xsd"
-             ID="mir_institutes">
-  <label xml:lang="de" text="Einrichtungen" description="Liste der Einrichtungen" />
-  <label xml:lang="en" text="Institutions" description="A list of institutions" />
+<mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="mir_institutes">
+  <label xml:lang="de" text="Fachgruppe" description="Liste der Fachgruppen" />
+  <label xml:lang="en" text="Specialist group" description="List of specialist groups" />
   <label xml:lang="x-uri" text="https://open.hdba.de/api/v2/classifications/mir_institutes" />
   <categories>
     <category ID="HdBA">
@@ -15,7 +12,7 @@
     <category ID="FG.Arbeitsmarktoekonomik">
       <label xml:lang="de" text="Fachgruppe Arbeitsmarktökonomik" />
       <label xml:lang="en" text="Fachgruppe Arbeitsmarktökonomik" />
-      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/arbeitsmarktoekonomik " xlink:type="locator" />
+      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/arbeitsmarktoekonomik" xlink:type="locator" />
     </category>
     <category ID="FG.Beratungswissenschaften">
       <label xml:lang="de" text="Fachgruppe Beratungswissenschaften" />
