@@ -31,7 +31,7 @@
       <label xml:lang="de">Datenschutz</label>
       <label xml:lang="en">Privacy Notice</label>
     </item>
-    <item href="/content/below/terms_of_use.xml" type="intern" replaceMenu="false" constrainPopUp="false">
+    <item href="/content/publish/terms_of_use.xml" type="intern" replaceMenu="false" constrainPopUp="false">
       <label xml:lang="de">Nutzungsbedingungen</label>
       <label xml:lang="en">Terms of use</label>
     </item>
