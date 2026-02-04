@@ -4,320 +4,362 @@
   <label xml:lang="en" text="HdBA Projects" description="List of projects" />
   <label xml:lang="x-uri" text="https://open.hdba.de/api/v2/classifications/projects" />
   <categories>
-    <category ID="project016">
-      <label xml:lang="de" text="Projekt Entwicklung von Online-Self-Assessment-Modulen für Interessierte an einem HdBA-Bachelorstudium (OSA-POE)" />
-      <label xml:lang="en" text="Project Development of online self-assessment modules for those interested in an HdBA bachelor's degree program (OSA-POE)" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/osa-poe/" xlink:type="locator" />
-    </category>
-    <category ID="project017">
-      <label xml:lang="de" text="Projekt Professionelle Berufsberatung für Frauen in Führungspositionen im Bereich der digitalen Kompetenz (DIGIGEN)" />
-      <label xml:lang="en" text="Project Professional career guidance for women in management positions in the field of Digital Competence (DIGIGEN)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/digigen/" xlink:type="locator" />
-    </category>
-    <category ID="project009">
-      <label xml:lang="de" text="Projekt Verhalten von Auszubildenden und Studierenden nach der Berufs- und Studienorientierungsphase und deren Ausbildungs- und Studienerfolg (BSOP-II)" />
-      <label xml:lang="en" text="Project Behavior of trainees and students after the vocational and study orientation phase and their training and study success (BSOP-II)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/bsop-i-und-ii/" xlink:type="locator" />
-    </category>
-    <category ID="project011">
-      <label xml:lang="de" text="Projekt Future Skills HdBA: Digitale und klassische Schlüsselkompetenzen in Studium und Beruf" />
-      <label xml:lang="en" text="Project Future Skills HdBA: Digital and traditional key skills in studies and work" />
-    </category>
-    <category ID="project014">
-      <label xml:lang="de" text="Projekt Erfolgreicher Start ins Berufsleben (EStarA)" />
-      <label xml:lang="en" text="Project Successful start to working life (EStarA)" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/estara/" xlink:type="locator" />
-    </category>
-    <category ID="project008">
-      <label xml:lang="de" text="Projekt Zwischen Beraten und Unterrichten – Modellierung und Erfassung der Berufsorientierungskompetenz von Studierenden der HdBA" />
-      <label xml:lang="en" text="Prject Between advising and teaching - modeling and recording the career orientation skills of HdBA students" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/zwischen-beraten-und-unterrichten/" xlink:type="locator" />
-    </category>
-    <category ID="project006">
-      <label xml:lang="de" text="Projekt Europäisches Netzwerk für Berufliche Orientierung (CAREER LEAD)" />
-      <label xml:lang="en" text="Project European Scientific Network for Career Learning and Education (CAREER LEAD)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/career-lead/" xlink:type="locator" />
-    </category>
-    <category ID="project012">
-      <label xml:lang="de" text="Projekt Der AG-S auf dem Weg zur Arbeitgeberberatung 4.0" />
-      <label xml:lang="en" text="Project The Employer service on the way to employer consulting 4.0" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/der-ag-s-auf-dem-weg-zur-arbeitgeberberatung-40/" xlink:type="locator" />
-    </category>
-    <category ID="project013">
-      <label xml:lang="de" text="Projekt Zukunft Inklusiv: Die Rolle der Bundesagentur für Arbeit bei der Gestaltung einer inklusiven Arbeitswelt" />
-      <label xml:lang="en" text="Project Future inclusive: The role of the Federal Employment Agency in designing an inclusive world of work" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/zukunft-inklusiv/" xlink:type="locator" />
-    </category>
-    <category ID="project015">
-      <label xml:lang="de" text="Projekt Assistierte Ausbildung flexibel (AsA flex)" />
-      <label xml:lang="en" text="Project Flexible assisted education(AsA flex)" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/asa-flex/" xlink:type="locator" />
-    </category>
-    <category ID="project007">
-      <label xml:lang="de" text="Projekt Nachhaltigkeit in Versicherungs- und Beratungsberufen (NaVeBb)" />
-      <label xml:lang="en" text="Project Sustainability in the insurance and consulting professions (NaVeBb)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/navebb/" xlink:type="locator" />
-    </category>
-    <category ID="project005">
-      <label xml:lang="de" text="Projekt CGC - Roundabouts für die digitale Transformation. Professionelle Begleitung &amp; Beratung bei der Transformation (CGC-DigiTrans)" />
-      <label xml:lang="en" text="Project CGC - Roundabouts for Digital Transformation. Professional guidance &amp; counseling in transformation (CGC–DigiTrans)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/cgc-digitrans/" xlink:type="locator" />
-    </category>
-    <category ID="project004">
-      <label xml:lang="de" text="Projekt Wege zur Inklusion (Include³)" />
-      <label xml:lang="en" text="Project Pathways towards Inclusion (Include³)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/include3/" xlink:type="locator" />
-    </category>
     <category ID="project001">
-      <label xml:lang="de" text="Projekt Allianz für berufliche Bildung Ostbayern (ABBO)" />
-      <label xml:lang="en" text="Project Alliance for Vocational Training in Eastern Bavaria (ABBO)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/abbo/" xlink:type="locator" />
-    </category>
-    <category ID="project003">
-      <label xml:lang="de" text="Projekt Künstliche Intelligenz zur Sicherung des Transfers von Erfahrung im Generationenwechsel mittelständischer Unternehmen (KüSTE)" />
-      <label xml:lang="en" text="Project Artificial intelligence to ensure the transfer of experience in the generational change of medium-sized companies (KüSTE)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/kueste/" xlink:type="locator" />
-    </category>
-    <category ID="project010">
-      <label xml:lang="de" text="Projekt Begleitforschung zur individuellen Lernbegleitung (iLB)" />
-      <label xml:lang="en" text="Project Accompanying research on individual learning support (iLB)" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/wirkungsforschung-ilb/" xlink:type="locator" />
-    </category>
-    <category ID="project002">
-      <label xml:lang="de" text="Projekt Europäische Mobilitätsberatung (EMoCC)" />
-      <label xml:lang="en" text="Project European Mobility Career Counseling (EMoCC)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/emocc/" xlink:type="locator" />
-    </category>
-    <category ID="project065">
-      <label xml:lang="de" text="Projekt Stand und Perspektiven der Qualifizierungsberatung" />
-      <label xml:lang="en" text="Project Status and prospects of qualification consulting" />
-    </category>
-    <category ID="project064">
-      <label xml:lang="de" text="Projekt Subjektive Theorien zur Beratung und zum Beratungshandeln" />
-      <label xml:lang="en" text="Project Subjective theories on counseling and counseling behavior" />
-    </category>
-    <category ID="project060">
-      <label xml:lang="de" text="Projekt Möglichkeiten zur Nutzung von Künstlicher Intelligenz (KI) zur beraterischen Unterstützung von Berufsentscheidungen (KI-BEP)" />
-      <label xml:lang="en" text="Project Possibilities for the use of artificial intelligence to provide advisory support for career decisions (KI-BEP)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/ki-bep" xlink:type="locator" />
-    </category>
-    <category ID="project063">
-      <label xml:lang="de" text="Projekt Beratung zur Aus- und Weiterbildung – innovative Praxis aus Sicht von AGS und KMU (InnoBAW)" />
-      <label xml:lang="en" text="Project Advice on training and further education - innovative practice from the perspective of Employer service and SMEs (InnoBAW)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/innobaw" xlink:type="locator" />
-    </category>
-    <category ID="project062">
-      <label xml:lang="de" text="Projekt Dezentralisierte Lohnfindungssysteme in der EU: Zur betrieblichen und nationalen Operationalisierung des Leistungsprinzips (LoFi-EU)" />
-      <label xml:lang="en" text="Project Decentralized wage-setting systems in the EU: On the company and national operationalization of the performance principle (LoFi-EU)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/lofi-eu" xlink:type="locator" />
-    </category>
-    <category ID="project061">
-      <label xml:lang="de" text="Projekt Alternde Belegschaften in und nach der Coronakrise. Chancen der Beschäftigung Älterer in der Pandemie (EBA II)" />
-      <label xml:lang="en" text="Project Ageing workforces in and after the coronavirus crisis. Opportunities for employing older workers during the pandemic (EBA II)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/uebersicht-eba-ii" xlink:type="locator" />
-    </category>
-    <category ID="project055">
-      <label xml:lang="de" text="Projekt Neue Wege in der Kooperation von Arbeitnehmer- und Arbeitgeber-Dienstleistungen und die Rolle der Integrationsfachkräfte (NWCEE)" />
-      <label xml:lang="en" text="Project New ways of cooperation between employee and employer services and the role of integration specialists (NWCEE)" />
-    </category>
-    <category ID="project059">
-      <label xml:lang="de" text="Projekt Beratung zur Aus- und Weiterbildung – innovative Praxis aus Sicht von Beratungseinrichtungen und KMU in der Schweiz (InnoBAW – CH)" />
-      <label xml:lang="en" text="Project Advice on education and training - innovative practice from the perspective of advisory institutions and SMEs in Switzerland (InnoBAW - CH)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/innobaw-ch" xlink:type="locator" />
-    </category>
-    <category ID="project058">
-      <label xml:lang="de" text="Projekt Erfolgsfaktor Weiterbildungspersonal in BA-geförderten Maßnahmen der RD Nord – Qualitätsentwicklung zwischen pädagogischem Anspruch und ökonomischer Machbarkeit (ErWeiterBAR)" />
-      <label xml:lang="en" text="Project Success factor further training personnel in Federal Employment Agency funded measures of the Regional Directorate North - Quality development between pedagogical demands and economic feasibility (ErWeiterBAR)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/erweiterbar" xlink:type="locator" />
-    </category>
-    <category ID="project057">
-      <label xml:lang="de" text="Projekt Professionelle Online-Self-Assessments und Leistungssteigerung in kognitiven Fähigkeitstests (Pro-OSAs)" />
-      <label xml:lang="en" text="Project Professional online self-assessments and performance improvement in cognitive ability tests (Pro-OSAs)" />
-    </category>
-    <category ID="project056">
-      <label xml:lang="de" text="Projekt Die Zukunft der aktivierenden Arbeitsmarktpolitik in vergleichender Perspektive (ALMP)" />
-      <label xml:lang="en" text="Project The future of activating labor market policy in a comparative perspective (ALMP)" />
-    </category>
-    <category ID="project050">
-      <label xml:lang="de" text="Projekt Frauen, Männer und Erfolg: Wege zum Ziel" />
-      <label xml:lang="en" text="Project Women, men and success: paths to the goal" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/frauen-maenner-und-erfolg-wege-zum-ziel" xlink:type="locator" />
-    </category>
-    <category ID="project051">
-      <label xml:lang="de" text="Projekt Controllerinnen – Repräsentanz in Führungspositionen und Fachbüchern" />
-      <label xml:lang="en" text="Project Female controllers - representation in management positions and specialist books" />
-    </category>
-    <category ID="project052">
-      <label xml:lang="de" text="Projekt Verhalten von Jugendlichen und jungen Erwachsenen in der Berufs- und Studienorientierungsphase (BSOP)" />
-      <label xml:lang="en" text="Project Behavior of adolescents and young adults in the career and study orientation phase (BSOP)" />
-    </category>
-    <category ID="project053">
-      <label xml:lang="de" text="Projekt Beratung im Kontext eines individualisierten Human Ressource Managements (HRM) " />
-      <label xml:lang="en" text="Project Consulting in the context of individualized human resource management (HRM)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/hrm/" xlink:type="locator" />
-    </category>
-    <category ID="project054">
-      <label xml:lang="de" text="Projekt Das Berufsorientierungs- und Entscheidungsverhalten der Generation der 15- bis 30-Jährigen und Auswirkungen auf die heutige Berufsberatung für Jugendliche, junge Erwachsene, Eltern und Arbeitgebern durch Lehrkräfte und Berufsberater (Generation Y und Z)" />
-      <label xml:lang="en" text="Project The career orientation and decision-making behavior of the generation of 15- to 30-year-olds and effects on today's career guidance for adolescents, young adults, parents and employers by teachers and career counselors (Generation Y and Z)" />
-      <url xlink:href="https://www.hdba.de/forschung/hdba-projekte/generation-y-und-z/" xlink:type="locator" />
-    </category>
-    <category ID="project049">
-      <label xml:lang="de" text="Projekt Selbstbefähigung von Beratern und VET-Trainern zur Förderung der sozialen Eingliederung von Flüchtlingen, Asylbewerbern und Erwachsenen im beruflichen Übergang (Social SELF-I)" />
-      <label xml:lang="en" text="Project Self-empowerment of guidance advisors and VET trainers for the promotion of social inclusion of refugees, asylum seekers and adults in career transition (Social SELF-I)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/social-self-i/" xlink:type="locator" />
-    </category>
-    <category ID="project048">
-      <label xml:lang="de" text="Projekt Abstimmung der Fähigkeiten der Absolventen auf die Anforderungen der Arbeitswelt durch authentische Lernszenarien (Skill up)" />
-      <label xml:lang="en" text="Project Matching graduates’ skills and labour world demands through authentic learning scenarios (Skill up)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/skill-up/" xlink:type="locator" />
-    </category>
-    <category ID="project047">
-      <label xml:lang="de" text="Projekt Erkennen und Vorbeugen von Abbrüchen aus der Hochschulbildung und Unterstützung beim Wechsel in eine erfolgreiche Berufsausbildung (PrevDrop)" />
-      <label xml:lang="en" text="Project Recognizing and preventing dropouts from higher education and supporting the transition to successful vocational training (PrevDrop)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/prevdrop/" xlink:type="locator" />
-    </category>
-    <category ID="project046">
-      <label xml:lang="de" text="Projekt Verknüpfung von Beratungsdiensten mit wichtigen Wirkungsindikatoren (Keyway)" />
-      <label xml:lang="en" text="Project Connecting Guidance Services to Key Impact Indicators (Keyway)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/keyway/" xlink:type="locator" />
-    </category>
-    <category ID="project045">
-      <label xml:lang="de" text="Projekt Integration der Generation 50+ (InCounselling50+)" />
-      <label xml:lang="en" text="Project Integration of the 50+ generation (InCounselling50+)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/incounselling-50/" xlink:type="locator" />
-    </category>
-    <category ID="project044">
-      <label xml:lang="de" text="Projekt Verbesserung der Teilhabe Älterer am Arbeits- und gesellschaftlichen Leben (INBeratung)" />
-      <label xml:lang="en" text="Project Improving the participation of older people in working and social life (INBeratung)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/inberatung/" xlink:type="locator" />
-    </category>
-    <category ID="project043">
-      <label xml:lang="de" text="Projekt Guide My W@y! - Eine Europäische Beratungskonzeption für Internationale Jugendmobilität" />
-      <label xml:lang="en" text="Project Guide My W@y! - A European Counseling Concept for International Youth Mobility" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/guide-my-wy/" xlink:type="locator" />
-    </category>
-    <category ID="project042">
-      <label xml:lang="de" text="Projekt Einstellung und (Weiter-)Beschäftigung Älterer (EBA)" />
-      <label xml:lang="en" text="Project Recruitment and (continued) employment of older workers (EBA)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/eba/" xlink:type="locator" />
-    </category>
-    <category ID="project041">
-      <label xml:lang="de" text="Projekt Beratung zur Integration von Flüchtlingen und Migranten in den Arbeitsmarkt (CMinaR)" />
-      <label xml:lang="en" text="Project Counselling for Refugee and Migrant Integration into the Labour Market (CMinaR)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/cminar/" xlink:type="locator" />
-    </category>
-    <category ID="project040">
-      <label xml:lang="de" text="Projekt Berufsintegrierte Studiengänge zur Weiterqualifizierung im Sozial- und Gesundheitswesen (BEST WSG)" />
-      <label xml:lang="en" text="Project Career-integrated degree programs for further qualification in social and healthcare services (BEST WSG)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/best-wsg/" xlink:type="locator" />
-    </category>
-    <category ID="project039">
-      <label xml:lang="de" text="Projekt Betrieblicher Umgang mit belastender Arbeit. Gestaltungsansätze aus Beschäftigtensicht (babs)" />
-      <label xml:lang="en" text="Project Dealing with stressful work in the workplace. Design approaches from the employees' perspective (babs)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/babs/" xlink:type="locator" />
-    </category>
-    <category ID="project038">
-      <label xml:lang="de" text="Projekt Eine neue Allianz für eingehende und ausgehende Mobilität (AMICO)" />
-      <label xml:lang="en" text="Project A new Alliance for Mobility InComing and Outgoing (AMICO)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/amico/" xlink:type="locator" />
-    </category>
-    <category ID="project037">
-      <label xml:lang="de" text="Projekt Öffentlich-private Allianz zur Garantie der Qualität des berufsbezogenen Lernens (WBL Guarantee)" />
-      <label xml:lang="en" text="Project Public-Private Alliance to GUARANTEE quality of Work Based Learning (WBL Guarantee)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/wbl/" xlink:type="locator" />
-    </category>
-    <category ID="project036">
-      <label xml:lang="de" text="Projekt Unterstützung von Studenten, die vom Studienabbruch bedroht sind (SUnStAR)" />
-      <label xml:lang="en" text="Project Supporting University Students at risk of dropping out (SUnStAR)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/sunstar/" xlink:type="locator" />
-    </category>
-    <category ID="project035">
-      <label xml:lang="de" text="Projekt Orts- und zeitflexibles Arbeiten in der betrieblichen Praxis (ozfA)" />
-      <label xml:lang="en" text="Project Flexible working in terms of time and place in operational practice (ozfA)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/ozfa/" xlink:type="locator" />
-    </category>
-    <category ID="project034">
-      <label xml:lang="de" text="Projekt Arbeitswege in Mecklenburg-Vorpommern" />
-      <label xml:lang="en" text="Project Routes to work in Mecklenburg-Vorpommern" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/arbeitswege-in-mv/" xlink:type="locator" />
-    </category>
-    <category ID="project033">
-      <label xml:lang="de" text="Projekt Beratung der FEAST-Arbeitsgruppe der Flugsicherungsbehörde EuroControl bei der Weiterentwicklung der Testbatterie FEAST für die Auswahl von Nachwuchsfluglotsen (FEAST Eurocontrol)" />
-      <label xml:lang="en" text="Project Advising the FEAST working group of the air traffic control authority EuroControl on the further development of the FEAST test battery for the selection of junior air traffic controllers (FEAST Eurocontrol)" />
+      <label xml:lang="de" text="ABBO: Allianz für berufliche Bildung Ostbayern" />
+      <label xml:lang="en" text="ABBO: Alliance for Vocational Training in Eastern Bavaria" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/abbo/" />
     </category>
     <category ID="project032">
-      <label xml:lang="de" text="Projekt Studien- und Ausbildungsaustauschprogramm für Berater zu den wichtigsten Herausforderungen der europäischen Arbeitsmärkte und Gesellschaften (Academia+)" />
-      <label xml:lang="en" text="Project Counsellors' Study And Training Exchange Programme for Key Challenges Of European Labour Markets And Societies (Academia+)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/academia/" xlink:type="locator" />
+      <label xml:lang="de" text="Academia+: Studien- und Ausbildungsaustauschprogramm für Berater zu den wichtigsten Herausforderungen der europäischen Arbeitsmärkte und Gesellschaften" />
+      <label xml:lang="en" text="Academia+: Counsellors' Study And Training Exchange Programme for Key Challenges Of European Labour Markets And Societies" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/academia/" />
     </category>
-    <category ID="project031">
-      <label xml:lang="de" text="Projekt Ausmaß, Ursachen und Folgen der Nichtinanspruchnahme von Kurzarbeitergeld während der Corona-Pandemie (FIS Corona)" />
-      <label xml:lang="en" text="Project Extent, causes and consequences of non-utilization of short-time work benefits during the corona pandemic (FIS Corona)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/fis-corona/" xlink:type="locator" />
+    <category ID="project012">
+      <label xml:lang="de" text="AG-S 4.0: Der Arbeitgeber-Service auf dem Weg zur Arbeitgeberberatung 4.0" />
+      <label xml:lang="en" text="AG-S 4.0: The Employer service on the way to employer consulting 4.0" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/der-ag-s-auf-dem-weg-zur-arbeitgeberberatung-40/" />
     </category>
-    <category ID="project029">
-      <label xml:lang="de" text="Projekt Berufliche Ausbildung junger geduldeter Flüchtlinge in Deutschland" />
-      <label xml:lang="en" text="Project Vocational training for young tolerated refugees in Germany" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/ausbildung-geduldeter/" xlink:type="locator" />
+    <category ID="8e339ae9-8f3b-47cf-a2b1-abc78bf7f917">
+      <label xml:lang="de" text="ALMP: Die Zukunft der aktiven Arbeitsmarktpolitik im internationalen Vergleich" />
+      <label xml:lang="en" text="ALMP: The future of active labor market policy in international comparison" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/die-zukunft-der-aktiven-arbeitsmarktpolitik-im-internationalen-vergleich-almp/" />
+    </category>
+    <category ID="project038">
+      <label xml:lang="de" text="AMICO: Eine neue Allianz für eingehende und ausgehende Mobilität" />
+      <label xml:lang="en" text="AMICO: A new Alliance for Mobility InComing and Outgoing" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/amico/" />
     </category>
     <category ID="project030">
-      <label xml:lang="de" text="Projekt Assistierte Ausbildung (AsA)" />
-      <label xml:lang="en" text="Project Assisted education (AsA)" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/assistierte-ausbildung/" xlink:type="locator" />
+      <label xml:lang="de" text="AsA: Assistierte Ausbildung" />
+      <label xml:lang="en" text="AsA: Assisted education" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/assistierte-ausbildung/" />
+    </category>
+    <category ID="project015">
+      <label xml:lang="de" text="AsA flex: Assistierte Ausbildung flexibel" />
+      <label xml:lang="en" text="AsA flex: Flexible assisted education" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/asa-flex/" />
+    </category>
+    <category ID="project029">
+      <label xml:lang="de" text="Ausbildung Geduldeter: Berufliche Ausbildung junger geduldeter Flüchtlinge in Deutschland" />
+      <label xml:lang="en" text="Ausbildung Geduldeter: Vocational training for young tolerated refugees in Germany" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/ausbildung-geduldeter/" />
+    </category>
+    <category ID="project034">
+      <label xml:lang="de" text="Auspendler: Arbeitswege in Mecklenburg-Vorpommern" />
+      <label xml:lang="en" text="Auspendler: Routes to work in Mecklenburg-Vorpommern" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/arbeitswege-in-mv/" />
+    </category>
+    <category ID="project039">
+      <label xml:lang="de" text="babs: Betrieblicher Umgang mit belastender Arbeit. Gestaltungsansätze aus Beschäftigtensicht" />
+      <label xml:lang="en" text="babs: Dealing with stressful work in the workplace. Design approaches from the employees' perspective" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/babs/" />
+    </category>
+    <category ID="project071">
+      <label xml:lang="de" text="BerEb: Qualitative Evaluation der Berufseinstiegsbegleitung" />
+      <label xml:lang="en" text="BerEb: Qualitative evaluation of career entry counselling" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/qualitative-evaluation-der-berufseinstiegsbegleitung/" />
+    </category>
+    <category ID="project040">
+      <label xml:lang="de" text="BEST WSG: Berufsintegrierte Studiengänge zur Weiterqualifizierung im Sozial- und Gesundheitswesen" />
+      <label xml:lang="en" text="BEST WSG: Career-integrated degree programs for further qualification in social and healthcare services" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/best-wsg/" />
     </category>
     <category ID="project018">
-      <label xml:lang="de" text="Projekt Beratungs- und Evaluationstools (BET)" />
-      <label xml:lang="en" text="Project Consulting and evaluation tools (BET)" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/bet/" xlink:type="locator" />
+      <label xml:lang="de" text="BET: Beratungs- und Evaluationstools" />
+      <label xml:lang="en" text="BET: Consulting and evaluation tools" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/bet/" />
     </category>
-    <category ID="project019">
-      <label xml:lang="de" text="Projekt Das Digitallabor der BA (DigiLAB)" />
-      <label xml:lang="en" text="Project The BA's digital laboratory" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/digilab/" xlink:type="locator" />
+    <category ID="project066">
+      <label xml:lang="de" text="BioDataBase: Transkribierte Berufsbiografien für Forschung, Lehre und Beratung. Aufbau einer internationalen Datenbank" />
+      <label xml:lang="en" text="BioDataBase: Transcribed professional biographies for research, teaching and counselling. Development of an international database" />
     </category>
-    <category ID="project020">
-      <label xml:lang="de" text="Projekt Überarbeitung der Studierfähigkeitsdiagnostik im Rahmen des Auswahlverfahrens der HdBA (StuDiag)" />
-      <label xml:lang="en" text="Project Revision of the study aptitude diagnostics as part of the HdBA selection procedure (StuDiag)" />
+    <category ID="project052">
+      <label xml:lang="de" text="BSOP: Verhalten von Jugendlichen und jungen Erwachsenen in der Berufs- und Studienorientierungsphase" />
+      <label xml:lang="en" text="BSOP: Behavior of adolescents and young adults in the career and study orientation phase" />
     </category>
-    <category ID="project021">
-      <label xml:lang="de" text="Projekt Webbasierte Qualifizierungsmaßnahme zur Förderung von interkultureller Kompetenz in der Beratung (SGB II) (WebiKom)" />
-      <label xml:lang="en" text="Project Web-based qualification measure to promote intercultural competence in counseling  (SGB II) (WebiKom)" />
-      <url xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/webikom/" xlink:type="locator" />
+    <category ID="project009">
+      <label xml:lang="de" text="BSOP-II: Verhalten von Auszubildenden und Studierenden nach der Berufs- und Studienorientierungsphase und deren Ausbildungs- und Studienerfolg" />
+      <label xml:lang="en" text="BSOP-II: Behavior of trainees and students after the vocational and study orientation phase and their training and study success" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/bsop-i-und-ii/" />
     </category>
-    <category ID="project022">
-      <label xml:lang="de" text="Projekt Generation: Smart. Transmediale Brücke für soziale Kompetenzen zur Kultivierung einer neuen Kultur der generationsübergreifenden Zusammenarbeit (GSmart)" />
-      <label xml:lang="en" text="Project Generation: Smart. Social competences transmedia bridge to cultivate a new culture for cross-generational collaboration (GSmart)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/gsmart/" xlink:type="locator" />
-    </category>
-    <category ID="project023">
-      <label xml:lang="de" text="Projekt Interdisziplinäres Modell zur Verlängerung der beruflichen Tätigkeit von Arbeitnehmern im Rentenalter, das im Bereich der Ergonomie, Flexibilität und Validierung von Arbeitsumgebungen umgesetzt wird (Work60plus)" />
-      <label xml:lang="en" text="Project Interdisciplinary model of extendine field of ergonomics, flexibility and validation of work environments (Work60plus)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/work60plus/" xlink:type="locator" />
+    <category ID="project006">
+      <label xml:lang="de" text="CAREER LEAD: Europäisches Netzwerk für Berufliche Orientierung" />
+      <label xml:lang="en" text="CAREER LEAD: European Scientific Network for Career Learning and Education" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/career-lead/" />
     </category>
     <category ID="project024">
-      <label xml:lang="de" text="Projekt CAREERS AROUND ME - Intelligente Technologien zur Verbesserung der Karrieremanagementfähigkeiten (CAREERS)" />
-      <label xml:lang="en" text="Project CAREERS AROUND ME - Smart technologies for improving Career Management Skills (CAREERS)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/careers-around-me/" xlink:type="locator" />
+      <label xml:lang="de" text="CAREERS AROUND ME - Intelligente Technologien zur Verbesserung der Karrieremanagementfähigkeiten" />
+      <label xml:lang="en" text="CAREERS AROUND ME - Smart technologies for improving Career Management Skills" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/careers-around-me/" />
+    </category>
+    <category ID="project005">
+      <label xml:lang="de" text="CGC-DigiTrans: CGC - Roundabouts für die digitale Transformation. Professionelle Begleitung &amp; Beratung bei der Transformation" />
+      <label xml:lang="en" text="CGC-DigiTrans: CGC - Roundabouts for Digital Transformation. Professional guidance &amp; counseling in transformation" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/cgc-digitrans/" />
+    </category>
+    <category ID="project041">
+      <label xml:lang="de" text="CMinaR: Beratung zur Integration von Flüchtlingen und Migranten in den Arbeitsmarkt" />
+      <label xml:lang="en" text="CMinaR: Counselling for Refugee and Migrant Integration into the Labour Market" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/cminar/" />
     </category>
     <category ID="project025">
-      <label xml:lang="de" text="Projekt Verknüpfung von Berufsberatung und Personalentwicklung in Unternehmen für Hochschulbildung und Ausbildung in der Praxis (CONNECT!)" />
-      <label xml:lang="en" text="Project Connecting Career Counselling and Human Resource Development in Enterprises for Higher Education and Training in Practice (CONNECT!)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/connect/" xlink:type="locator" />
+      <label xml:lang="de" text="CONNECT!:Verknüpfung von Berufsberatung und Personalentwicklung in Unternehmen für Hochschulbildung und Ausbildung in der Praxis" />
+      <label xml:lang="en" text="CONNECT!: Connecting Career Counselling and Human Resource Development in Enterprises for Higher Education and Training in Practice" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/connect/" />
     </category>
-    <category ID="project026">
-      <label xml:lang="de" text="Projekt Ein innovatives Modell für die berufliche Beratung von NEETs* mit psychischen Erkrankungen und seelischen Behinderungen (Work4Psy)" />
-      <label xml:lang="en" text="Project An innovative model for career counselling services to Mental Health NEETs (Work4Psy)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/work4psy/" xlink:type="locator" />
+    <category ID="project051">
+      <label xml:lang="de" text="Controllerinnen – Repräsentanz in Führungspositionen und Fachbüchern" />
+      <label xml:lang="en" text="Female controllers - representation in management positions and specialist books" />
     </category>
-    <category ID="project027">
-      <label xml:lang="de" text="Projekt Stärkung der sozio-emotionalen Kompetenz von Beratungsfachkräften (STR.E.N.G.Th)" />
-      <label xml:lang="en" text="Project STRengthen socio-Emotional competeNce to Guidance pracTitioners (STR.E.N.G.Th)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/strength/" xlink:type="locator" />
+    <category ID="project017">
+      <label xml:lang="de" text="DIGIGEN: Professionelle Berufsberatung für Frauen in Führungspositionen im Bereich der digitalen Kompetenz" />
+      <label xml:lang="en" text="DIGIGEN: Professional career guidance for women in management positions in the field of Digital Competence" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/digigen/" />
+    </category>
+    <category ID="project019">
+      <label xml:lang="de" text="DigiLAB: Das Digitallabor der BA" />
+      <label xml:lang="en" text="DigiLAB: The BA's digital laboratory" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/digilab/" />
+    </category>
+    <category ID="project069">
+      <label xml:lang="de" text="E-KI-B: Einbindung von KI in die Berufsberatung und in die Ausbildung von Beraterinnen und Beratern auf der Basis von Spracherkennung" />
+      <label xml:lang="en" text="E-KI-B: Integration of AI in career guidance and in the training of counselors based on speech recognition" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/e-ki-b/" />
+    </category>
+    <category ID="project042">
+      <label xml:lang="de" text="EBA: Einstellung und (Weiter-)Beschäftigung Älterer" />
+      <label xml:lang="en" text="EBA: Recruitment and (continued) employment of older workers" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/eba/" />
+    </category>
+    <category ID="project061">
+      <label xml:lang="de" text="EBA II: Alternde Belegschaften in und nach der Coronakrise. Chancen der Beschäftigung Älterer in der Pandemie" />
+      <label xml:lang="en" text="EBA II: Ageing workforces in and after the coronavirus crisis. Opportunities for employing older workers during the pandemic" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/uebersicht-eba-ii" />
+    </category>
+    <category ID="project002">
+      <label xml:lang="de" text="EMoCC: Europäische Mobilitätsberatung" />
+      <label xml:lang="en" text="EMoCC: European Mobility Career Counseling" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/emocc/" />
+    </category>
+    <category ID="project058">
+      <label xml:lang="de" text="ErWeiterBAR: Erfolgsfaktor Weiterbildungspersonal in BA-geförderten Maßnahmen der RD Nord – Qualitätsentwicklung zwischen pädagogischem Anspruch und ökonomischer Machbarkeit" />
+      <label xml:lang="en" text="ErWeiterBAR: Success factor further training personnel in Federal Employment Agency funded measures of the Regional Directorate North - Quality development between pedagogical demands and economic feasibility" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/erweiterbar" />
+    </category>
+    <category ID="project014">
+      <label xml:lang="de" text="EStarA: Erfolgreicher Start ins Berufsleben" />
+      <label xml:lang="en" text="EStarA: Successful start to working life" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/estara/" />
+    </category>
+    <category ID="project056">
+      <label xml:lang="de" text="FALMP: Die Zukunft der aktivierenden Arbeitsmarktpolitik in vergleichender Perspektive" />
+      <label xml:lang="en" text="FALMP: The future of activating labor market policy in a comparative perspective" />
+    </category>
+    <category ID="project033">
+      <label xml:lang="de" text="FEAST Eurocontrol: Beratung der FEAST-Arbeitsgruppe der Flugsicherungsbehörde EuroControl bei der Weiterentwicklung der Testbatterie FEAST für die Auswahl von Nachwuchsfluglotsen" />
+      <label xml:lang="en" text="FEAST Eurocontrol: Advising the FEAST working group of the air traffic control authority EuroControl on the further development of the FEAST test battery for the selection of junior air traffic controllers" />
+    </category>
+    <category ID="project031">
+      <label xml:lang="de" text="FIS Corona: Ausmaß, Ursachen und Folgen der Nichtinanspruchnahme von Kurzarbeitergeld während der Corona-Pandemie" />
+      <label xml:lang="en" text="FIS Corona: Extent, causes and consequences of non-utilization of short-time work benefits during the corona pandemic" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/fis-corona/" />
+    </category>
+    <category ID="project050">
+      <label xml:lang="de" text="Frauen, Männer und Erfolg: Wege zum Ziel" />
+      <label xml:lang="en" text="Women, men and success: paths to the goal" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/frauen-maenner-und-erfolg-wege-zum-ziel" />
+    </category>
+    <category ID="project011">
+      <label xml:lang="de" text="Future Skills HdBA: Digitale und klassische Schlüsselkompetenzen in Studium und Beruf" />
+      <label xml:lang="en" text="Future Skills HdBA: Digital and traditional key skills in studies and work" />
+    </category>
+    <category ID="project054">
+      <label xml:lang="de" text="Generation Y und Z: Das Berufsorientierungs- und Entscheidungsverhalten der Generation der 15- bis 30-Jährigen und Auswirkungen auf die heutige Berufsberatung für Jugendliche, junge Erwachsene, Eltern und Arbeitgebern durch Lehrkräfte und Berufsberater" />
+      <label xml:lang="en" text="Generation Y und Z: The career orientation and decision-making behavior of the generation of 15- to 30-year-olds and effects on today's career guidance for adolescents, young adults, parents and employers by teachers and career counselors" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/generation-y-und-z/" />
+    </category>
+    <category ID="project022">
+      <label xml:lang="de" text="GSmart: Generation: Smart. Transmediale Brücke für soziale Kompetenzen zur Kultivierung einer neuen Kultur der generationsübergreifenden Zusammenarbeit" />
+      <label xml:lang="en" text="GSmart: Generation: Smart. Social competences transmedia bridge to cultivate a new culture for cross-generational collaboration" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/gsmart/" />
+    </category>
+    <category ID="project043">
+      <label xml:lang="de" text="Guide My W@y: Eine Europäische Beratungskonzeption für Internationale Jugendmobilität" />
+      <label xml:lang="en" text="Guide My W@y: A European Counseling Concept for International Youth Mobility" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/guide-my-wy/" />
+    </category>
+    <category ID="project053">
+      <label xml:lang="de" text="HRM: Beratung im Kontext eines individualisierten Human Ressource Managements" />
+      <label xml:lang="en" text="HRM: Consulting in the context of individualized human resource management" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/hrm/" />
+    </category>
+    <category ID="project010">
+      <label xml:lang="de" text="iLB: Begleitforschung zur individuellen Lernbegleitung" />
+      <label xml:lang="en" text="iLB: Accompanying research on individual learning support" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/wirkungsforschung-ilb/" />
+    </category>
+    <category ID="project044">
+      <label xml:lang="de" text="INBeratung: Verbesserung der Teilhabe Älterer am Arbeits- und gesellschaftlichen Leben" />
+      <label xml:lang="en" text="INBeratung: Improving the participation of older people in working and social life" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/inberatung/" />
+    </category>
+    <category ID="project004">
+      <label xml:lang="de" text="Include³: Wege zur Inklusion" />
+      <label xml:lang="en" text="Include³: Pathways towards Inclusion" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/include3/" />
+    </category>
+    <category ID="project045">
+      <label xml:lang="de" text="InCounselling50+: Integration der Generation 50+" />
+      <label xml:lang="en" text="InCounselling50+: Integration of the 50+ generation" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/incounselling-50/" />
+    </category>
+    <category ID="project063">
+      <label xml:lang="de" text="InnoBAW: Beratung zur Aus- und Weiterbildung – innovative Praxis aus Sicht von AGS und KMU" />
+      <label xml:lang="en" text="InnoBAW: Advice on training and further education - innovative practice from the perspective of Employer service and SMEs" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/innobaw" />
+    </category>
+    <category ID="project059">
+      <label xml:lang="de" text="InnoBAW-CH: Beratung zur Aus- und Weiterbildung – innovative Praxis aus Sicht von Beratungseinrichtungen und KMU in der Schweiz" />
+      <label xml:lang="en" text="InnoBAW-CH: Advice on education and training - innovative practice from the perspective of advisory institutions and SMEs in Switzerland" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/innobaw-ch" />
+    </category>
+    <category ID="project046">
+      <label xml:lang="de" text="Keyway: Verknüpfung von Beratungsdiensten mit wichtigen Wirkungsindikatoren" />
+      <label xml:lang="en" text="Keyway: Connecting Guidance Services to Key Impact Indicators" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/keyway/" />
+    </category>
+    <category ID="project060">
+      <label xml:lang="de" text="KI-BEP: Möglichkeiten zur Nutzung von Künstlicher Intelligenz zur beraterischen Unterstützung von Berufsentscheidungen" />
+      <label xml:lang="en" text="KI-BEP: Possibilities for the use of artificial intelligence to provide advisory support for career decisions" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/ki-bep" />
+    </category>
+    <category ID="project003">
+      <label xml:lang="de" text="KüSTE: Künstliche Intelligenz zur Sicherung des Transfers von Erfahrung im Generationenwechsel mittelständischer Unternehmen" />
+      <label xml:lang="en" text="KüSTE: Artificial intelligence to ensure the transfer of experience in the generational change of medium-sized companies" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/kueste/" />
+    </category>
+    <category ID="project062">
+      <label xml:lang="de" text="LoFi-EU: Dezentralisierte Lohnfindungssysteme in der EU: Zur betrieblichen und nationalen Operationalisierung des Leistungsprinzips" />
+      <label xml:lang="en" text="LoFi-EU: Decentralized wage-setting systems in the EU: On the company and national operationalization of the performance principle" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/lofi-eu" />
     </category>
     <category ID="project028">
-      <label xml:lang="de" text="Projekt Bedingungen gelingender Lernortkooperationen im Kontext der Digitalisierung in der beruflichen Bildung (LoK-DiBB)" />
-      <label xml:lang="en" text="Project Conditions for successful cooperation between learning venues in the context of digitalization in vocational education (LoK-DiBB)" />
-      <url xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/lok-dibb/" xlink:type="locator" />
+      <label xml:lang="de" text="LoK-DiBB: Bedingungen gelingender Lernortkooperationen im Kontext der Digitalisierung in der beruflichen Bildung" />
+      <label xml:lang="en" text="LoK-DiBB: Conditions for successful cooperation between learning venues in the context of digitalization in vocational education" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/lok-dibb/" />
+    </category>
+    <category ID="project007">
+      <label xml:lang="de" text="NaVeBb: Nachhaltigkeit in Versicherungs- und Beratungsberufen" />
+      <label xml:lang="en" text="NaVeBb: Sustainability in the insurance and consulting professions" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/navebb/" />
+    </category>
+    <category ID="project055">
+      <label xml:lang="de" text="NWCEE: Neue Wege in der Kooperation von Arbeitnehmer- und Arbeitgeber-Dienstleistungen und die Rolle der Integrationsfachkräfte" />
+      <label xml:lang="en" text="NWCEE: New ways of cooperation between employee and employer services and the role of integration specialists" />
+    </category>
+    <category ID="project016">
+      <label xml:lang="de" text="OSA-POE: Entwicklung von Online-Self-Assessment-Modulen für Interessierte an einem HdBA-Bachelorstudium" />
+      <label xml:lang="en" text="OSA-POE: Development of online self-assessment modules for those interested in an HdBA bachelor's degree program" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/osa-poe/" />
+    </category>
+    <category ID="project035">
+      <label xml:lang="de" text="ozfA: Orts- und zeitflexibles Arbeiten in der betrieblichen Praxis" />
+      <label xml:lang="en" text="ozfA: flexible working in terms of time and place in operational practice" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/ozfa/" />
+    </category>
+    <category ID="project047">
+      <label xml:lang="de" text="PrevDrop: Erkennen und Vorbeugen von Abbrüchen aus der Hochschulbildung und Unterstützung beim Wechsel in eine erfolgreiche Berufsausbildung" />
+      <label xml:lang="en" text="PrevDrop: Recognizing and preventing dropouts from higher education and supporting the transition to successful vocational training" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/prevdrop/" />
+    </category>
+    <category ID="project057">
+      <label xml:lang="de" text="Pro-OSA: Professionelle Online-Self-Assessments und Leistungssteigerung in kognitiven Fähigkeitstests" />
+      <label xml:lang="en" text="Pro-OSA: Professional online self-assessments and performance improvement in cognitive ability tests" />
+    </category>
+    <category ID="project065">
+      <label xml:lang="de" text="QB: Stand und Perspektiven der Qualifizierungsberatung" />
+      <label xml:lang="en" text="QB: Status and prospects of qualification consulting" />
+    </category>
+    <category ID="project073">
+      <label xml:lang="de" text="ReWeTrans: Regionale Weiterbildungsstrukturen in der Transformation– mit Weiterbildungsagenturen, allianzen und -verbünden und auf dem Weg zu vernetzten Bildungsräumen?" />
+      <label xml:lang="en" text="ReWeTrans: Regional continuing education structures in transformation - with continuing education agencies, alliances and networks and on the way to networked educational spaces?" />
+    </category>
+    <category ID="project048">
+      <label xml:lang="de" text="Skill up: Abstimmung der Fähigkeiten der Absolventen auf die Anforderungen der Arbeitswelt durch authentische Lernszenarien" />
+      <label xml:lang="en" text="Skill up: Matching graduates’ skills and labour world demands through authentic learning scenarios" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/skill-up/" />
+    </category>
+    <category ID="project049">
+      <label xml:lang="de" text="Social SELF-I: Selbstbefähigung von Beratern und VET-Trainern zur Förderung der sozialen Eingliederung von Flüchtlingen, Asylbewerbern und Erwachsenen im beruflichen Übergang" />
+      <label xml:lang="en" text="Social SELF-I: Self-empowerment of guidance advisors and VET trainers for the promotion of social inclusion of refugees, asylum seekers and adults in career transition" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/social-self-i/" />
+    </category>
+    <category ID="project068">
+      <label xml:lang="de" text="Sprachleitfaden: Gendersensibles Sprechen in der Berufsberatung: Akzeptanz, Nutzung und Umsetzbarkeit des Sprachleitfadens der BA" />
+      <label xml:lang="en" text="Sprachleitfaden: Gender-sensitive language in careers guidance: acceptance, use and feasibility of the BA's language guide" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/gendersensibles-sprechen-in-der-berufsberatung-akzeptanz-nutzung-und-umsetzbarkeit-des-sprachleitfadens-der-ba/" />
+    </category>
+    <category ID="project027">
+      <label xml:lang="de" text="STR.E.N.G.Th: Stärkung der sozio-emotionalen Kompetenz von Beratungsfachkräften" />
+      <label xml:lang="en" text="STR.E.N.G.Th: STRengthen socio-Emotional competeNce to Guidance pracTitioners" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/strength/" />
+    </category>
+    <category ID="project070">
+      <label xml:lang="de" text="Strukturwandelreport 2025" />
+      <label xml:lang="en" text="Structural change report 2025" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/strukturwandelreport-2025" />
+    </category>
+    <category ID="project020">
+      <label xml:lang="de" text="StuDiag: Überarbeitung der Studierfähigkeitsdiagnostik im Rahmen des Auswahlverfahrens der HdBA" />
+      <label xml:lang="en" text="StuDiag: Revision of the study aptitude diagnostics as part of the HdBA selection procedure" />
+    </category>
+    <category ID="project064">
+      <label xml:lang="de" text="Subjektive Theorien zur Beratung und zum Beratungshandeln" />
+      <label xml:lang="en" text="Subjective theories on counseling and counseling behavior" />
+    </category>
+    <category ID="project036">
+      <label xml:lang="de" text="SUnStAR: Unterstützung von Studenten, die vom Studienabbruch bedroht sind" />
+      <label xml:lang="en" text="SUnStAR: Supporting University Students at risk of dropping out" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/sunstar/" />
+    </category>
+    <category ID="project067">
+      <label xml:lang="de" text="Testverfahren KI: Automatische Entwicklung von psychologischen Testverfahren mit künstlicher Intelligenz" />
+      <label xml:lang="en" text="Testverfahren KI: Automated development of psychological test procedures with artificial intelligence" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/automatische-entwicklung-von-psychologischen-testverfahren-mit-kuenstlicher-intelligenz/" />
+    </category>
+    <category ID="project037">
+      <label xml:lang="de" text="WBL Guarantee: Öffentlich-private Allianz zur Garantie der Qualität des berufsbezogenen Lernens" />
+      <label xml:lang="en" text="WBL Guarantee: Public-Private Alliance to GUARANTEE quality of Work Based Learning" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/wbl/" />
+    </category>
+    <category ID="project021">
+      <label xml:lang="de" text="WebiKom: Webbasierte Qualifizierungsmaßnahme zur Förderung von interkultureller Kompetenz in der Beratung (SGB II)" />
+      <label xml:lang="en" text="WebiKom: Web-based qualification measure to promote intercultural competence in counseling  (SGB II)" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/webikom/" />
+    </category>
+    <category ID="project026">
+      <label xml:lang="de" text="Work4Psy: Ein innovatives Modell für die berufliche Beratung von NEETs* mit psychischen Erkrankungen und seelischen Behinderungen" />
+      <label xml:lang="en" text="Work4Psy: An innovative model for career counselling services to Mental Health NEETs" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/work4psy/" />
+    </category>
+    <category ID="project023">
+      <label xml:lang="de" text="Work60plus: Interdisziplinäres Modell zur Verlängerung der beruflichen Tätigkeit von Arbeitnehmern im Rentenalter, das im Bereich der Ergonomie, Flexibilität und Validierung von Arbeitsumgebungen umgesetzt wird" />
+      <label xml:lang="en" text="Work60plus: Interdisciplinary model of extendine field of ergonomics, flexibility and validation of work environments" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/drittmittelprojekte/work60plus/" />
+    </category>
+    <category ID="project072">
+      <label xml:lang="de" text="ZUKO: Digitale und klassische Zukunftskompetenzen von Jugendlichen in der Berufsorientierungsphase und in der Ausbildung" />
+      <label xml:lang="en" text="ZUKO: Digital and traditional future skills of young people in the career orientation phase and during training" />
+    </category>
+    <category ID="project013">
+      <label xml:lang="de" text="Zukunft Inklusiv: Die Rolle der Bundesagentur für Arbeit bei der Gestaltung einer inklusiven Arbeitswelt" />
+      <label xml:lang="en" text="Future inclusive: The role of the Federal Employment Agency in designing an inclusive world of work" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/projekte-mit-der-ba/zukunft-inklusiv/" />
+    </category>
+    <category ID="project008">
+      <label xml:lang="de" text="Zwischen Beraten und Unterrichten – Modellierung und Erfassung der Berufsorientierungskompetenz von Studierenden der HdBA" />
+      <label xml:lang="en" text="Between advising and teaching - modeling and recording the career orientation skills of HdBA students" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/hdba-projekte/zwischen-beraten-und-unterrichten/" />
     </category>
   </categories>
 </mycoreclass>

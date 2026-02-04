@@ -2,7 +2,7 @@
 <mycoreclass xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd" ID="Pu4a">
   <label xml:lang="de" text="KDSF-Publikationen" />
   <label xml:lang="x-skos-exact" text="uri.gbv.de/terminology/kdsf/Pu4a" />
-  <label xml:lang="x-uri" text="https://www.mycore.de/classifications/Pu4a" />
+  <label xml:lang="x-uri" text="https://open.hdba.de/api/v2/classifications/Pu4a" />
   <categories>
     <category ID="Pu6">
       <label xml:lang="de" text="Publikationstyp (kds.type.publication)" description="Kategorisierung aller Publikationsformate anhand von Eigenschaften wie Erscheinungsweise und Quelle, z.B. in Journalartikel, Sammelbandbeitrag, Monographie u.a.." />

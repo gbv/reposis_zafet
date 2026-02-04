@@ -7,52 +7,52 @@
     <category ID="HdBA">
       <label xml:lang="de" text="Hochschule der Bundesagentur für Arbeit (HdBA)" />
       <label xml:lang="en" text="Hochschule der Bundesagentur für Arbeit (HdBA)" />
-      <url xlink:href="https://www.hdba.de/" xlink:type="locator" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/" />
     </category>
     <category ID="FG.Arbeitsmarktoekonomik">
       <label xml:lang="de" text="Fachgruppe Arbeitsmarktökonomik" />
       <label xml:lang="en" text="Fachgruppe Arbeitsmarktökonomik" />
-      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/arbeitsmarktoekonomik" xlink:type="locator" />
-    </category>
-    <category ID="FG.Beratungswissenschaften">
-      <label xml:lang="de" text="Fachgruppe Beratungswissenschaften" />
-      <label xml:lang="en" text="Fachgruppe Beratungswissenschaften" />
-      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/beratungswissenschaften/" xlink:type="locator" />
-    </category>
-    <category ID="FG.Soziologie">
-      <label xml:lang="de" text="Fachgruppe Soziologie und Arbeitsmarktpolitik " />
-      <label xml:lang="en" text="Fachgruppe Soziologie und Arbeitsmarktpolitik " />
-      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/soziologie-und-arbeitsmarktpolitik/" xlink:type="locator" />
-    </category>
-    <category ID="FG.Public_Management">
-      <label xml:lang="de" text="Fachgruppe Public Management und Betriebswirtschaftslehre" />
-      <label xml:lang="en" text="Fachgruppe Public Management und Betriebswirtschaftslehre" />
-      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/public-management-und-betriebswirtschaftslehre/" xlink:type="locator" />
-    </category>
-    <category ID="FG.Psychologie">
-      <label xml:lang="de" text="Fachgruppe Psychologie" />
-      <label xml:lang="en" text="Fachgruppe Psychologie" />
-      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/psychologie" xlink:type="locator" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/arbeitsmarktoekonomik" />
     </category>
     <category ID="FG.Arbeitsrecht">
       <label xml:lang="de" text="Fachgruppe Arbeits- und Sozialrecht" />
       <label xml:lang="en" text="Fachgruppe Arbeits- und Sozialrecht" />
-      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/arbeits-und-sozialrecht/" xlink:type="locator" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/arbeits-und-sozialrecht/" />
+    </category>
+    <category ID="FG.Beratungswissenschaften">
+      <label xml:lang="de" text="Fachgruppe Beratungswissenschaften" />
+      <label xml:lang="en" text="Fachgruppe Beratungswissenschaften" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/beratungswissenschaften/" />
     </category>
     <category ID="FB.Wirtschaftspädagogik">
       <label xml:lang="de" text="Fachgruppe Berufs- und Wirtschaftspädagogik" />
       <label xml:lang="en" text="Fachgruppe Berufs- und Wirtschaftspädagogik" />
-      <url xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/berufs-und-wirtschaftspaedagogik/" xlink:type="locator" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/berufs-und-wirtschaftspaedagogik/" />
+    </category>
+    <category ID="FG.Public_Management">
+      <label xml:lang="de" text="Fachgruppe Public Management und Betriebswirtschaftslehre" />
+      <label xml:lang="en" text="Fachgruppe Public Management und Betriebswirtschaftslehre" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/public-management-und-betriebswirtschaftslehre/" />
+    </category>
+    <category ID="FG.Psychologie">
+      <label xml:lang="de" text="Fachgruppe Psychologie" />
+      <label xml:lang="en" text="Fachgruppe Psychologie" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/psychologie" />
+    </category>
+    <category ID="FG.Soziologie">
+      <label xml:lang="de" text="Fachgruppe Soziologie und Arbeitsmarktpolitik " />
+      <label xml:lang="en" text="Fachgruppe Soziologie und Arbeitsmarktpolitik " />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/hochschule/organisation/fachgruppen/soziologie-und-arbeitsmarktpolitik/" />
     </category>
     <category ID="SEAD.BA">
       <label xml:lang="de" text="SEAD-BA" />
       <label xml:lang="en" text="SEAD-BA" />
-      <url xlink:href="https://www.hdba.de/hochschule/zentrale-einrichtungen/bibliothek/" xlink:type="locator" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/hochschule/zentrale-einrichtungen/bibliothek/" />
     </category>
     <category ID="ZaFET">
       <label xml:lang="de" text="Zentrum für angewandte Forschung, Entwicklung und Transfer (ZaFET)" />
       <label xml:lang="en" text="Zentrum für angewandte Forschung, Entwicklung und Transfer (ZaFET)" />
-      <url xlink:href="https://www.hdba.de/forschung/forschungsstrukturen/" xlink:type="locator" />
+      <url xlink:type="locator" xlink:href="https://www.hdba.de/forschung/forschungsstrukturen/" />
     </category>
   </categories>
 </mycoreclass>

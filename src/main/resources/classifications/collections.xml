@@ -4,17 +4,20 @@
   <label xml:lang="en" text="HdBA collections" description="List of collections" />
   <label xml:lang="x-uri" text="https://open.hdba.de/api/v2/classifications/collections" />
   <categories>
+    <category ID="Senat_HdBA">
+      <label xml:lang="de" text="Entscheidungen des Senats der Hochschule der BA" description="Decisions of the Senate of the BA University" />
+    </category>
     <category ID="discussion_papers">
-      <label xml:lang="en" text="Discussion Papers" />
       <label xml:lang="de" text="Discussion Papers" />
+      <label xml:lang="en" text="Discussion Papers" />
     </category>
     <category ID="working_papers">
-      <label xml:lang="en" text="Working Papers" />
       <label xml:lang="de" text="Working Papers" />
+      <label xml:lang="en" text="Working Papers" />
     </category>
     <category ID="sead_ba">
-      <label xml:lang="en" text="SEAD-BA collection" />
       <label xml:lang="de" text="SEAD-BA Sammlung" />
+      <label xml:lang="en" text="SEAD-BA collection" />
     </category>
   </categories>
 </mycoreclass>
