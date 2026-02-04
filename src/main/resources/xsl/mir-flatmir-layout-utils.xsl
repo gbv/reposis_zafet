@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0"
-  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:i18n="xalan://org.mycore.services.i18n.MCRTranslation"
-  xmlns:mcrver="xalan://org.mycore.common.MCRCoreVersion"
-  xmlns:mcrxsl="xalan://org.mycore.common.xml.MCRXMLFunctions"
-  exclude-result-prefixes="i18n mcrver mcrxsl">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
   <xsl:import href="resource:xsl/layout/mir-common-layout.xsl" />
 
@@ -61,7 +56,7 @@
               role="search">
               <input
                 name="condQuery"
-                placeholder="{i18n:translate('mir.navsearch.placeholder')}"
+                placeholder="{document('i18n:mir.navsearch.placeholder')/i18n/text()}"
                 class="form-control mr-sm-2 search-query"
                 id="searchInput"
                 type="text"
@@ -70,7 +65,7 @@
                 <xsl:when test="contains($isSearchAllowedForCurrentUser, 'true')">
                   <input name="owner" type="hidden" value="createdby:*" />
                 </xsl:when>
-                <xsl:when test="not(mcrxsl:isCurrentUserGuestUser())">
+                <xsl:when test="not($CurrentUser='guest')">
                   <input name="owner" type="hidden" value="createdby:{$CurrentUser}" />
                 </xsl:when>
               </xsl:choose>
@@ -126,10 +121,10 @@
 
   <xsl:template name="project.generate_single_menu_entry">
     <xsl:param name="menuID" />
-
+    <xsl:variable name="menuItem" select="$loaded_navigation_xml/menu[@id=$menuID]/item" />
     <xsl:variable name="activeClass">
       <xsl:choose>
-        <xsl:when test="$loaded_navigation_xml/menu[@id=$menuID]/item[@href = $browserAddress ]">
+        <xsl:when test="$menuItem/@href = $browserAddress">
           <xsl:text>active</xsl:text>
         </xsl:when>
         <xsl:otherwise>
@@ -137,23 +132,54 @@
         </xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
-
     <li class="nav-item {$activeClass}">
-      <a id="{$menuID}" href="{$WebApplicationBaseURL}{$loaded_navigation_xml/menu[@id=$menuID]/item/@href}" class="nav-link">
-        <xsl:choose>
-          <xsl:when test="$loaded_navigation_xml/menu[@id=$menuID]/item/label[lang($CurrentLang)] != ''">
-            <xsl:value-of select="$loaded_navigation_xml/menu[@id=$menuID]/item/label[lang($CurrentLang)]" />
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:value-of select="$loaded_navigation_xml/menu[@id=$menuID]/item/label[lang($DefaultLang)]" />
-          </xsl:otherwise>
-        </xsl:choose>
+      <xsl:variable name="fullUrl">
+        <xsl:call-template name="resolveFullUrl">
+          <xsl:with-param name="link" select="$menuItem/@href" />
+        </xsl:call-template>
+      </xsl:variable>
+      <a id="{$menuID}" href="{$fullUrl}" class="nav-link">
+        <xsl:apply-templates select="$menuItem" mode="linkText" />
       </a>
     </li>
   </xsl:template>
 
+  <xsl:template name="resolveFullUrl">
+    <xsl:param name="link" />
+    <xsl:param name="appBaseUrl" select="$WebApplicationBaseURL" />
+    <xsl:choose>
+      <xsl:when test="starts-with($link,'http:')
+                      or starts-with($link,'https:')
+                      or starts-with($link,'mailto:')
+                      or starts-with($link,'ftp:')">
+        <xsl:value-of select="$link" />
+      </xsl:when>
+      <xsl:when test="starts-with($link,'/')">
+        <xsl:choose>
+          <xsl:when test="substring($appBaseUrl, string-length($appBaseUrl), 1) = '/'">
+            <xsl:value-of
+              select="concat(substring($appBaseUrl, 1, string-length($appBaseUrl) - 1), $link)" />
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="concat($appBaseUrl, $link)" />
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:choose>
+          <xsl:when test="substring($appBaseUrl, string-length($appBaseUrl), 1) = '/'">
+            <xsl:value-of select="concat($appBaseUrl, $link)" />
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="concat($appBaseUrl, '/', $link)" />
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
   <xsl:template name="mir.powered_by">
-    <xsl:variable name="mcr_version" select="concat('MyCoRe ',mcrver:getCompleteVersion())" />
+    <xsl:variable name="mcr_version" select="document('version:full')/version/text()" />
     <div id="powered_by">
       <a href="http://www.mycore.de">
         <img src="{$WebApplicationBaseURL}mir-layout/images/mycore_logo_small_invert.png" title="{$mcr_version}" alt="powered by MyCoRe" />
