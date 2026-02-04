@@ -21,13 +21,7 @@
         </div>
       </div>
     </div>
-    <script src="../js/jquery.number.js"></script>
-    <script>
-      $( document ).ready(function() { $.ajax({ type: "GET", url: "../api/v1/search?q=objectType:mods AND
-      state:published&amp;rows=0&amp;wt=json&amp;json.wrf=?", dataType: "jsonp", success: function (data) {
-      $('#project-searchInput').attr('placeholder', 'Suche in ' + $.number(data.response.numFound,0, ',', '.') + '
-      Dokumenten'); }, }); });
-    </script>
+    <script src="../js/index.js"></script>
   </section>
   <meta>
     <log date="2015-05-22" time="11:12" labelPath=" » Start" lastEditor="Kathleen Neumann" />
