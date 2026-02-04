@@ -1,53 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE MyCoReWebPage>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE MyCoReWebPage>
 <MyCoReWebPage xmlns:i18n="http://www.mycore.org/i18n">
-
   <section title="Repositorium der HdBA" xml:lang="de">
-        <div id="project-index-search" class="jumbotwo" >
-            <div class="row">
-
-              <div class="col splash">
-
-                <h1 class="">
-                  <span class="backlight">Repositorium</span>
-                  <span class="backlight slogan">open HdBA</span>
-                </h1>
-                <form
-                  id="project-searchMainPage"
-                  action="../servlets/solr/find"
-                  class="form-inline backlight"
-                  role="search">
-                  <div class="input-group input-group-lg w-100">
-                    <input
-                      name="condQuery"
-                      placeholder="Suche in 160 Dokumenten"
-                      class="form-control search-query"
-                      id="project-searchInput"
-                      type="text" />
-                    <div class="input-group-append">
-                      <button type="submit" class="btn btn-primary">
-                        <i class="fa fa-search"></i>
-                      </button>
-                    </div>
-                  </div>
-                </form>
+    <div id="project-index-search" class="jumbotwo">
+      <div class="row">
+        <div class="col splash">
+          <h1 class="">
+            <span class="backlight">Repositorium</span>
+            <span class="backlight slogan">open HdBA</span>
+          </h1>
+          <form id="project-searchMainPage" action="../servlets/solr/find" class="form-inline backlight" role="search">
+            <div class="input-group input-group-lg w-100">
+              <input name="condQuery" placeholder="Suche in 160 Dokumenten" class="form-control search-query" id="project-searchInput" type="text" />
+              <div class="input-group-append">
+                <button type="submit" class="btn btn-primary">
+                  <i class="fa fa-search"></i>
+                </button>
               </div>
-
             </div>
+          </form>
         </div>
-        <script src="../js/jquery.number.js"></script>
-        <script>
-          $( document ).ready(function() {
-            $.ajax({
-              type: "GET",
-              url: "../api/v1/search?q=objectType:mods AND state:published&amp;rows=0&amp;wt=json&amp;json.wrf=?",
-              dataType: "jsonp",
-              success: function (data) {
-                $('#project-searchInput').attr('placeholder', 'Suche in ' + $.number(data.response.numFound,0, ',', '.') + ' Dokumenten');
-              },
-            });
-          });
-        </script>
+      </div>
+    </div>
+    <script src="../js/jquery.number.js"></script>
+    <script>
+      $( document ).ready(function() { $.ajax({ type: "GET", url: "../api/v1/search?q=objectType:mods AND
+      state:published&amp;rows=0&amp;wt=json&amp;json.wrf=?", dataType: "jsonp", success: function (data) {
+      $('#project-searchInput').attr('placeholder', 'Suche in ' + $.number(data.response.numFound,0, ',', '.') + '
+      Dokumenten'); }, }); });
+    </script>
   </section>
   <meta>
     <log date="2015-05-22" time="11:12" labelPath=" » Start" lastEditor="Kathleen Neumann" />
