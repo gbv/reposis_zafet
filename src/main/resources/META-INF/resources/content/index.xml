@@ -8,16 +8,7 @@
             <span class="backlight">Repositorium</span>
             <span class="backlight slogan">open HdBA</span>
           </h1>
-          <form id="project-searchMainPage" action="../servlets/solr/find" class="form-inline backlight" role="search">
-            <div class="input-group input-group-lg w-100">
-              <input name="condQuery" placeholder="Suche in 160 Dokumenten" class="form-control search-query" id="project-searchInput" type="text" />
-              <div class="input-group-append">
-                <button type="submit" class="btn btn-primary">
-                  <i class="fa fa-search"></i>
-                </button>
-              </div>
-            </div>
-          </form>
+          <index-search-form />
         </div>
       </div>
     </div>
