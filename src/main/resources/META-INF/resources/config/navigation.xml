@@ -78,7 +78,7 @@
     </item>
   </menu>
   <menu id="collections">
-  <!-- collection menu  -->
+    <!-- collection menu  -->
     <label xml:lang="de">Sammlungen</label>
     <label xml:lang="en">Collections</label>
     <item href="/servlets/MCRActionMappingServlet/search/collections_discussion" type="intern">
@@ -88,7 +88,7 @@
     <item href="/servlets/MCRActionMappingServlet/search/collections_working" type="intern">
       <label xml:lang="de">Working Papers</label>
       <label xml:lang="en">Working Papers</label>
-    </item>git
+    </item>
     <item href="/servlets/MCRActionMappingServlet/search/collections_sead_ba" type="intern">
       <label xml:lang="de">SEAD-BA Sammlung</label>
       <label xml:lang="en">SEAD-BA Collection</label>
