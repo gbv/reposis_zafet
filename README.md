@@ -9,6 +9,7 @@
 ## Development
 
 You can add these to your `~/.mycore/(dev-)mir/.mycore.properties`:
+
 ```
 MCR.Developer.Resource.Override=/path/to/reposis_zafet/src/main/resources
 MCR.LayoutService.LastModifiedCheckPeriod=0
