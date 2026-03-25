@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <xsl:stylesheet version="1.0"
   xmlns:mcracl="xalan://org.mycore.common.xml.MCRXMLFunctions"
   xmlns:mcri18n="xalan://org.mycore.services.i18n.MCRTranslation"
