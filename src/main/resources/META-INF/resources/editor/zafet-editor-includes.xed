@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xed:template xmlns:xed="http://www.mycore.de/xeditor" xmlns:mir="http://www.mycore.de/mir">
+
+  <xed:template id="collections">
+    <xed:bind xpath="mods:classification[@authorityURI='https://open.hdba.de/api/v2/classifications/collections'][@displayLabel='collections']/@valueURIxEditor">
+      <div class="form-group row {$xed-validation-marker}">
+        <label class="col-md-3 col-form-label text-right">
+          <xed:output i18n="project.form.label.collections" />
+        </label>
+        <div class="col-md-6">
+          <select class="form-control form-control-inline">
+            <option value="">
+              <xed:output i18n="mir.select.optional" />
+            </option>
+            <xed:include uri="xslStyle:items2options:classification:editor:-1:children:collections" />
+          </select>
+        </div>
+        <mir:help-pmud help-text="{i18n:project.help.collections}" pmud="false" />
+      </div>
+    </xed:bind>
+  </xed:template>
+
+  <xed:template id="projects">
+    <xed:bind xpath="mods:classification[@authorityURI='https://open.hdba.de/api/v2/classifications/projects'][@displayLabel='projects']/@valueURIxEditor">
+      <div class="form-group row {$xed-validation-marker}">
+        <label class="col-md-3 col-form-label text-right">
+          <xed:output i18n="project.form.label.projects" />
+        </label>
+        <div class="col-md-6">
+          <select class="form-control form-control-inline">
+            <option value="">
+              <xed:output i18n="mir.select.optional" />
+            </option>
+            <xed:include uri="xslStyle:items2options:classification:editor:-1:children:projects" />
+          </select>
+        </div>
+        <mir:help-pmud help-text="{i18n:project.help.projects}" pmud="false" />
+      </div>
+    </xed:bind>
+  </xed:template>
+
+</xed:template>
